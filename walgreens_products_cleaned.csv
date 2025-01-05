@@ -1,510 +1,649 @@
-product_name,brand,ratings,num_of_reviews,product_price,unit_price
-The Doctor's BrushPicks Interdental Toothpicks,The Doctor's,4.5,139,3.99 ,$0.03  / ea
-Advil Sinus Congestion & Pain Coated Tablets 10,Advil,4.5,2396,8.29 ,$0.83  / ea
-Boogie Mist Saline Mist Fresh,Boogie Mist,4.5,495,6.99 ,$2.25  / oz
-Dr. Bronner's All-One Hemp Pure-Castile Soap Bar Lavender,Dr. Bronner's,4.5,197,5.29 ,$1.06  / oz
-Walgreens Saline Packets,Walgreens,4.5,279,12.49 ,$0.12  / ea
-Walgreens True Metrix Self-Monitoring Blood Glucose Test Strips,Walgreens,4.5,298,18.99 ,$0.32  / ea
-Walgreens Mouth Rinse Antigingivitis /  Antiplaque Refreshing Mint,Walgreens,4.5,169,6.79 ,$0.20  / oz
-Nivea Shea Nourish Body Lotion,Nivea,4.5,481,10.99 ,$0.65  / oz
-"Always Pure Cotton Feminine Pads For Women, With Wings, Regular Unscented, Size 1 (28 ct)",Always,4.5,550,12.99 ,$0.46  / ea
-DenTek Fresh Clean Floss Picks Mouthwash Blast Mint,DenTek,4.5,568,3.99 ,$0.05  / ea
-Bausch + Lomb Eye Wash,Bausch + Lomb,4.5,262,5.49 ,$1.37  / oz
-"ACT Anticavity Fluoride Mouthwash, Triple Action Mint (Packaging May Vary)",ACT,4.5,346,5.99 ,$0.33  / oz
-AZO Urinary Tract Defense Antibacterial Protection Tablets,AZO,4.5,136,10.99 ,$0.61  / ea
-Walgreens 24 Hour Relief Allergy Nasal Spray  - .62 fl oz,Walgreens,4.5,133,22.99 ,$37.08  / oz
-Ricola Herb Throat Drops Sugar Free Lemon Mint (Actual Item May Vary),Ricola,4.5,276,2/$7.00or1/$3.99,$0.21  / ea
-OraQuick In-Home HIV Test,OraQuick,4.5,277,49.99 ,
-Lubriderm Lotion Unspecified,Lubriderm,4.5,782,14.49 ,$0.60  / oz
-Vaseline Petroleum Jelly Original,Vaseline,4.5,3142,3.29 ,$1.88  / oz
-PreserVision AREDS 2 Formula Eye Vitamin & Mineral Supplement Softgels,PreserVision,4.5,1845,39.99 ,$0.33  / ea
-Norforms Feminine Deodorant Suppositories Island Escape,Norforms,4.5,84,6.99 ,$0.58  / ea
-Dr. Bronner's Lavender Castile Soap,Dr. Bronner's,4.5,549,19.99 ,$0.62  / oz
-CeraVe Moisturizing Face and Body Lotion with Hyaluronic Acid for Normal to Dry Skin Unscented,CeraVe,4.5,8789,14.99 ,$1.87  / oz
-"Tampax Pearl Tampons, with LeakGuard Braid No scent, Ultra Absorbency",Tampax Pearl,4.5,1245,6.99 ,$0.39  / ea
-Vermont's Original Bag Balm Hand & Body Skin Moisturizer,Vermont's Original Bag Balm,4.5,119,9.99 ,$1.25  / oz
-Bausch + Lomb Biotrue Multi-Purpose Solution,Bausch + Lomb,4.5,694,19.99 ,$1.00  / oz
-Bausch + Lomb Lumify Redness Reliever Eye Drops,Bausch + Lomb Lumify,4.5,2561,18.99 ,$237.37  / oz
-AZO Urinary Pain Relief Maximum Strength Tablets  - 12 EA,AZO,4.5,1159,11.99 ,$1.00  / ea
-Calmoseptine Calmoseptine Ointment to Prevent & Heal Skin Irritations,Calmoseptine,4.5,611,11.49 ,
-"Listerine Antiseptic Mouthwash, Bad Breath & Plaque Mint",Listerine,4.5,3242,9.49 ,$0.28  / oz
-Opti-Free RepleniSH Multi-Purpose Disinfection Solution Value Pack,Opti-Free,4.5,228,19.99 ,$1.00  / oz
-"Tampax Pearl Tampons Trio Multipack, with LeakGuard Braid No scent",Tampax Pearl,4.5,968,11.99 ,$0.35  / ea
-Refresh Mega-3 Lubricant Eye Drops Preservative-Free,Refresh,4.5,2473,21.99 ,$0.73  / ea
-Softsoap Antibacterial Liquid Hand Soap Pump Crisp Clean,Softsoap,4.5,265,3.29 ,$0.29  / oz
-"Always Radiant Feminine Pads For Women, Regular, With Wings Light Clean, Size 1 (30 ct)",Always,4.5,1804,11.99 ,$0.40  / ea
-Systane Complete Lubricant Eye Drops,Systane,4.5,241,17.99 ,$52.91  / oz
-"Always Anti-Bunch Xtra Protection Daily Liners, Extra Long Absorbency Unscented, Extra Long Absorbency (Actual Item May Vary)",Always,4.5,310,9.99 ,$0.15  / ea
-"Always Maxi Overnight Pads With Wings For Women, Extra Heavy Overnight Absorbency Unscented, Size 5 (20 ct)",Always,4.5,2842,8.99 ,$0.45  / ea
-One A Day Women's Prenatal 1,One A Day,4.5,773,21.99 ,$0.73  / ea
-Colgate Peroxyl Antiseptic Mouth Sore Rinse Mild Mint,Colgate,4.5,281,8.99 ,$1.07  / oz
-pH-D Boric Acid Vaginal Suppositories,pH-D,4.5,115,22.99 ,
-"Always Thin No Feel Protection Daily Liners Unscented, Regular Absorbency",Always,4.5,666,9.99 ,$0.08  / ea
-"Degree Men Antiperspirant Deodorant Dry Spray Fresh, 3.8 oz",Degree Men,4.5,343,7.49 ,$1.97  / oz
-Boston Advance Contact Lens Conditioning Solution,Boston,4.5,82,14.99 ,$4.28  / oz
-Secret Clinical Strength Soft Solid Antiperspirant and Deodorant for Women Light & Fresh,Secret,4.5,2194,10.99 ,$6.87  / oz
-Olay Complete Lotion All Day Moisturizer with SPF 15 for Normal Skin,Olay Complete,4.5,221,16.99 ,$2.83  / oz
-Shine 'n Jam Conditioning Extra Hold Gel,Shine 'n Jam,4.5,121,3.79 ,
-Walgreens Allergy Nasal Spray 120 Sprays  - .57 fl oz,Walgreens,4.5,189,16.99 ,$29.81  / oz
-Vaseline Petroleum Jelly Original Original,Vaseline,4.5,2907,5.99 ,$0.80  / oz
-"Carmex Medicated Lip Balm Tubes, Lip Moisturizer for Chapped Lips",Carmex,4.5,65,5.29 ,$5.04  / oz
-ChapStick Skin Protectant Lip Balm Tubes Original,ChapStick,4.5,159,4.99 ,
-Johnson's Baby Head-To-Toe Tear-Free Body Wash & Shampoo,Johnson's Baby,4.5,984,11.49 ,$0.42  / oz
-"Dr. Bronner's Bar Soap, Peppermint Peppermint",Dr. Bronner's,4.5,205,5.29 ,$1.06  / oz
-Dove Sensitive Skin Body Wash with Pump Sensitive Skin,Dove,4.5,6600,12.99 ,$0.42  / oz
-Neutrogena Hydro Boost Body Gel Cream with Hyaluronic Acid,Neutrogena,4.5,19669,13.99 ,$0.87  / oz
-Refresh Contacts Contact Lens Comfort Moisture Drops for Dry Eyes (Actual Item May Vary),Refresh,4.5,87,10.99 ,$30.53  / oz
-"Always Maxi Overnight Pads with Wings for Women Unscented, Size 4 (33 ct)",Always,4.5,2444,12.99 ,$0.39  / ea
-DenTek Triple Clean Advanced Clean Floss Picks Mouthwash Blast (Packaging May Vary),DenTek,4.5,720,3.99 ,$0.04  / ea
-Walgreens Mouth Rinse Mint,Walgreens,4.5,85,6.49 ,$0.81  / oz
-"Tampax Pearl Tampons, with LeakGuard Braid No scent",Tampax Pearl,4.5,2553,11.99 ,$0.33  / ea
-CeraVe Moisturizing Face and Body Lotion with Hyaluronic Acid for Normal to Dry Skin Unscented,CeraVe,4.5,8805,15.99 ,$1.33  / oz
-"Always Feminine Pads for Women with wings No scent, Size 4 Overnight",Always,4.5,1394,11.99 ,$0.46  / ea
-CeraVe Face and Body Moisturizing Cream for Normal to Dry Skin with Hyaluronic Acid,CeraVe,4.5,15921,14.99 ,$1.87  / oz
-Boston Simplus Multi-Action Solution for Rigid Gas Permeable Contact Lenses,Boston,4.5,139,14.99 ,$4.28  / oz
-Aquaphor Advance Therapy Healing Ointment Fragrance Free,Aquaphor,4.5,1513,19.99 ,$1.43  / oz
-Eucerin Eczema Relief Body Cream,Eucerin,4.5,478,15.99 ,$2.00  / oz
-Walgreens Daytime Severe Sinus Caplets Cool Blast,Walgreens,4.5,137,8.99 ,$0.37  / ea
-Vagisil ProHydrate Natural Feel Internal Moisturizing Gel,Vagisil,4.5,48,24.99 ,
-Mielle Organics Rosemary Mint Growth Oil,Mielle Organics,4.5,5810,10.99 ,
-"Olay Complete Lotion Moisturizer with SPF 15, Sensitive Skin Fragrance-Free",Olay Complete,4.5,555,16.99 ,$2.83  / oz
-O'Keeffe's Working Hands Hand Cream,O'Keeffe's,4.5,264,7.99 ,$2.96  / oz
-"Vicks Sinex Severe Nasal Spray, Moisturizing Ultra Fine Mist with Aloe, Decongestant",Vicks Sinex,4.5,389,13.99 ,$27.98  / oz
-Dr. Bronner's Peppermint Castile Soap (Packaging May Vary),Dr. Bronner's,4.5,1069,19.99 ,$0.62  / oz
-"Always Ultra Thin Feminine Pads With Wings for Women, Long Super Unscented, Size 2 (42 ct)",Always,4.5,1802,12.99 ,$0.31  / ea
-CeraVe Face and Body Moisturizing Cream for Normal to Dry Skin with Hyaluronic Acid Unscented,CeraVe,4.5,15854,18.99 ,$1.19  / oz
-Degree Antiperspirant Deodorant Sexy Intrigue,Degree,4.5,832,6.49 ,$2.50  / oz
-AZO Urinary Tract Defense Antibacterial Protection Tablets,AZO,4.5,159,18.99 ,$0.79  / ea
-"Colgate Adult Manual Full Head Toothbrush, Medium One Size Multicolor",Colgate,4.5,304,2/$2.00or1/$1.29,$1.29  / ea
-Bondi Sands Self Tanning Application Mitt,Bondi Sands,4.5,3142,6.99 ,$6.99  / ea
-OGX Tea Tree Mint Extra Strength Scalp Treatment  - 4 OZ,OGX,4.5,254,11.99 ,$3.00  / oz
-Nivea Nourishing Skin Firming Body Lotion,Nivea,4.5,264,12.99 ,$0.77  / oz
-OGX Renewing Argan Oil of Morocco Penetrating Oil,OGX,4.5,3416,11.99 ,
-Nivea Men Maximum Hydration Nourishing Body Lotion,Nivea Men,4.5,192,10.99 ,$0.65  / oz
-Dove Deep Moisture Body Wash with Pump Deep Moisture,Dove,4.5,7494,12.99 ,$0.42  / oz
-"Old Spice Men's Antiperspirant & Deodorant, 24/ 7 Sweat Protection Oasis with Vanilla",Old Spice,4.5,990,9.79 ,$3.77  / oz
-Blistex Medicated Lip Ointment,Blistex,4.5,253,2/$12.00or1/$6.49,$7.73  / oz
-Biotene Mouthwash For Dry Mouth Relief Fresh Mint,Biotene,4.5,826,8.49 ,$0.53  / oz
-Opti-Free PureMoist Multi-Purpose Disinfecting Solution,Opti-Free,4.5,773,22.99 ,$1.15  / oz
-Cepacol Extra Strength Sore Throat Relief Lozenges Honey Lemon,Cepacol,4.5,272,5.99 ,$0.37  / ea
-Aveeno Daily Moisturizing Lotion with Oat for Dry Skin Fragrance Free,Aveeno,4.5,3308,9.99 ,$1.25  / oz
-CeraVe Face & Body Moisturizing Cream with Pump for Normal to Dry Skin Unscented,CeraVe,4.5,16379,19.99 ,$1.25  / oz
-ReNu Advanced Multi-Purpose Solution,ReNu,4.5,214,8.99 ,$0.75  / oz
-Suave Antiperspirant & Deodorant Stick Coconut Kiss,Suave,4.5,377,2.49 ,$2.08  / oz
-SheaMoisture Leave-In Conditioning Hairspray Coconut & Hibiscus,SheaMoisture,4.5,76,12.99 ,
-O'Keeffe's Working Hands Hand Cream Unscented,O'Keeffe's Working Hands,4.5,93,8.49 ,$2.83  / oz
-Degree Advanced Protection Antiperspirant Deodorant Dry Spray Lavender & Waterlily,Degree Advanced Protection,4.5,386,7.49 ,$1.97  / oz
-Degree Antiperspirant Deodorant Pure Clean,Degree,4.5,1050,6.49 ,$2.50  / oz
-"Always Discreet Adult Incontinence Pads for Women, Postpartum Pads No scent, Light Absorbency, Regular Length",Always Discreet,4.5,523,7.99 ,$0.27  / ea
-Ricola Echinacea Cough Drops Honey Lemon (Actual Item May Vary),Ricola,4.5,109,2/$7.00or1/$3.99,$0.21  / ea
-Aquaphor Lip Repair Stick,Aquaphor,4.5,987,2/$16.00or1/$10.99,
-Biotene Dry Mouth Lozenges For Fresh Breath Refreshing Mint,Biotene,4.5,646,8.49 ,$0.31  / ea
-Aveeno Daily Moisturizing Lotion with Oat for Dry Skin Fragrance Free,Aveeno,4.5,3560,11.49 ,$0.96  / oz
-Waterpik Ultra Water Flosser White,Waterpik,4.5,7435,67.99 ,
-Nivea Creme Soft,Nivea,4.5,6937,1.29 ,
-CeraVe Healing Ointment to Protect and Soothe Dry Skin,CeraVe,4.5,1382,19.99 ,$1.67  / oz
-Method Foaming Hand Wash Sweet Water,Method,4.5,71,4.99 ,$0.50  / oz
-Softsoap Antibacterial Hand Soap Pump White Tea & Berry Fusion,Softsoap,4.5,466,3.29 ,$0.29  / oz
-"La Roche-Posay Lipikar Triple Repair Lotion, Body and Face Moisturizer",La Roche-Posay,4.5,2947,19.99 ,$1.48  / oz
-Mitchum Triple Odor Defense Gel Antiperspirant Deodorant Shower Fresh,Mitchum,4.5,108,9.79 ,$1.44  / oz
-Cepacol Extra Strength Sore Throat & Cough Relief Lozenges Mixed Berry,Cepacol,4.5,250,5.99 ,
-Flonase Allergy Relief Nasal Spray,Flonase,4.5,1237,21.99 ,$57.87  / oz
-CeraVe Moisturizing Face and Body Lotion with Hyaluronic Acid for Normal to Dry Skin Unscented,CeraVe,4.5,8888,18.99 ,$1.19  / oz
-Nivea Skin Firming Hydration Body Lotion,Nivea,4.5,1572,12.99 ,$0.77  / oz
-Garnier Whole Blends Smoothing Conditioner Coconut Oil & Cocoa Butter Extract,Garnier Whole Blends,4.5,7581,5.99 ,$0.48  / oz
-Zaditor Antihistamine Eye Drops,Zaditor,4.5,156,16.99 ,$99.94  / oz
-it's a 10 Miracle Leave In Product,it's a 10,4.5,148,21.99 ,
-Nivea Essentially Enriched Body Lotion,Nivea,4.5,3297,10.99 ,$0.65  / oz
-Walgreens Multi-Purpose Solution,Walgreens,4.5,44,5.99 ,$0.50  / oz
-Systane Gel Drops Lubricant Eye Gel,Systane,4.5,161,17.99 ,$54.52  / oz
-Bausch + Lomb Lumify Redness Reliever Eye Drops,Bausch + Lomb Lumify,4.5,754,29.99 ,$119.96  / oz
-TYLENOL Sinus Severe Non-Drowsy Day Cold & Flu Relief Caplets,TYLENOL,4.5,224,12.49 ,
-TRESemme Conditioner Moisture Rich,TRESemme,4.5,1238,7.29 ,$0.26  / oz
-Refresh Triple-Action Relief Advance Lubricant Eye Drops,Refresh,4.5,130,27.99 ,$41.16  / oz
-Blink Mild-Moderate Dry Eye Symptom Relief,Blink,4.5,191,14.99 ,$29.98  / oz
-SheaMoisture Kids Extra Moisturizing Detangler Coconut and Hibiscus,SheaMoisture,4.5,311,12.99 ,$1.62  / oz
-Blink For Soft and RGP Contact Lenses,Blink,4.5,543,7.99 ,$23.50  / oz
-"Always Maxi Overnight Pads with Wings for Women, Extra Heavy Overnight Absorbency Unscented, Size 5 (27 ct)",Always,4.5,2828,12.99 ,$0.48  / ea
-"Olay Complete Daily Moisturizer with Sunscreen SPF 15, Sensitive Fragrance-Free",Olay Complete,4.5,591,11.99 ,$3.00  / oz
-Vicks VapoCOOL SEVERE Medicated Sore Throat Drops Honey Lemon Chill,Vicks,4.5,24,3.99 ,$0.22  / ea
-"Gold Bond Diabetics' Dry Skin Relief Body Lotion, With Aloe Fragrance Free",Gold Bond,4.5,399,11.99 ,
-Red Cross Toothache Medicine Kit,Red Cross,4.5,365,7.79 ,$59.92  / oz
-"Walgreens Adult Washcloths Fresh, 12 x 8 White",Walgreens,4.5,566,9.99 ,$0.21  / sheet
-Clear Care Triple Action Cleaning & Disinfecting Solution,Clear Care,4.5,543,19.99 ,$0.83  / oz
-"Always Infinity Feminine Pads for Women with Wings, Extra Heavy Overnight Unscented, Size 5",Always,4.5,1005,11.99 ,$0.55  / ea
-"Always Infinity Pads, Heavy, with Wings Unscented, Size 2 (32 ct)",Always,4.5,1449,11.99 ,$0.37  / ea
-Vanicream Moisturizing Cream  - 1 lb,Vanicream,4.5,420,16.99 ,$1.06  / oz
-Aquaphor Advanced Therapy Healing Ointment Fragrance Free,Aquaphor,4.5,363,7.29 ,$4.17  / oz
-Refresh Moisturizing Relief Lubricant Eye Drops,Refresh,4.5,160,14.99 ,$33.31  / oz
-Wet Ones Antibacterial Hand Wipes Fresh,Wet Ones,4.5,235,4.79 ,$0.12  / sheet
-PreserVision Areds2 Supplement,PreserVision,4.5,160,23.99 ,$0.40  / ea
-"Nivea Creme - Body, Face & Hand Moisturizing Cream",Nivea,4.5,373,1.29 ,$1.29  / oz
-Olay Anti-Wrinkle Day Face Lotion with Sunscreen SPF 15,Olay,4.5,167,17.99 ,$5.29  / oz
-"Flonase Allergy Relief Nasal Spray Scent Free, 60 Sprays",Flonase,4.5,1594,21.99 ,$64.68  / oz
-TRESemme Protecting Heat Spray Keratin Smooth Thermal Creations,TRESemme,4.5,2313,7.99 ,
-Hollywood Beauty Tea Tree Oil,Hollywood Beauty,4.5,148,4.29 ,
-"Always Radiant Feminine Pads For Women, Heavy, With Wings Light Clean, Size 2 (26 ct)",Always,4.5,1834,11.99 ,$0.46  / ea
-Walgreens Quite Clean Full Medium Toothbrush,Walgreens,4.5,26,0.99 ,$0.99  / ea
-Systane Ultra Lubricant Eye Drops High Performance,Systane Ultra,4.5,198,13.99 ,$49.96  / oz
-Systane Ultra High Performance Lubricant Eye Drops,Systane Ultra,4.5,455,26.99 ,$40.89  / oz
-"Gold Bond Overnight Deep Moisturizing Lotion, With Calming Scent",Gold Bond,4.5,901,11.99 ,$1.50  / oz
-Vaseline Healing Jelly Original Original (Actual Item May Vary),Vaseline,4.5,2974,7.99 ,$0.61  / oz
-Neutrogena Therapeutic Shampoo,Neutrogena,4.5,786,11.49 ,$2.55  / oz
-Walgreens Sinus & Headache,Walgreens,4.5,52,8.99 ,$0.37  / ea
-Crest Whitening Cavity & Tartar Protection Toothpaste Whitening Baking Soda & Peroxide Fresh Mint,Crest,4.5,1736,2.99 ,$0.52  / oz
-Gold Bond Cocoa Butter Glow Daily Hydrating Lotion Light Brown,Gold Bond,4.5,645,11.99 ,$0.86  / oz
-Systane Complete Preservative Free Lubricant Eye Drops,Systane,4.5,119,19.99 ,$58.79  / oz
-CeraVe Face and Body Moisturizing Cream for Normal to Dry Skin Unscented,CeraVe,4.5,16137,16.99 ,$1.42  / oz
-"Lamisil Lamisil Athlete's Foot Antifungal Cream, 1% Terbinafine Hydrochloride, 1.0 oz",Lamisil,4.5,253,21.99 ,
-"U by Kotex Wrapped Panty Liners Unscented, Regular Length",U by Kotex,4.5,2472,6.99 ,$0.17  / ea
-Refresh Vials Lubricant Eye Drops Preservative-Free,Refresh,4.5,146,31.99 ,$53.32  / oz
-Scalpicin Maximum Strength Liquid Scalp Itch Treatment,Scalpicin,4.5,99,9.79 ,
-African Pride Moisturizing Oil,African Pride,4.5,185,5.49 ,
-"Gold Bond Healing Hand Cream, With Aloe to Soothe & Comfort",Gold Bond,4.5,1849,4.79 ,$1.60  / oz
-"SheaMoisture Intensive Hydration Hair Mask, Manuka Honey & Mafura Oil",SheaMoisture,4.5,476,13.99 ,$1.22  / oz
-Refresh Lubricant Eye Drops Preservative-Free Tears,Refresh,4.5,227,31.99 ,$45.70  / oz
-Refresh Soothing Lubricant Eye Gel (Actual Item May Vary),Refresh,4.5,209,12.49 ,$24.98  / oz
-TheraBreath Fresh Breath Oral Rinse Mild Flavor (Packaging May Vary),TheraBreath,4.5,613,9.79 ,$0.61  / oz
-Ocuvite Eye Health Adult 50+,Ocuvite,4.5,221,29.99 ,$0.33  / ea
-SheaMoisture Multi-Action Leave-In,SheaMoisture,4.5,265,13.99 ,$1.75  / oz
-Crest Cavity Protection Toothpaste Regular,Crest,4.5,472,2.99 ,$0.52  / oz
-"Gold Bond Comfort Body Powder, Talc-Free Fresh Clean",Gold Bond,4.5,301,6.79 ,$0.68  / oz
-PATADAY Eye Itch Relief,PATADAY,4.5,310,19.99 ,$124.94  / oz
-Revlon One-Step Volumizer Original 1.0 Hair Dryer and Hot Air Brush Black,Revlon,4.5,337,54.99 ,
-Ayr Saline Nasal Mist (Actual Item May Vary),Ayr,4.5,159,6.29 ,$3.70  / oz
-Benzedrex Inhaler Nasal Decongestant,Benzedrex Inhaler,4.5,100,8.99 ,$8.99  / ea
-OCuSOFT Retaine MGD Lubricant Eye Drops Single-Dose Containers,OCuSOFT,4.5,406,26.99 ,$0.90  / ea
-Systane Ultra Lubricant Eye Drops,Systane Ultra,4.5,294,14.99 ,$45.42  / oz
-Walgreens Disposable Probe Covers,Walgreens,4.5,97,5.99 ,
-Garnier Whole Blends Smoothing Shampoo with Coconut Oil & Cocoa Butter Extracts,Garnier Whole Blends,4.5,7984,5.99 ,$0.48  / oz
-"Nivea Soft Creme - Body, Face and Hand Care",Nivea,4.5,7142,9.49 ,$1.40  / oz
-Aussie Paraben Free Conditioner Avocado & Jojoba Oil,Aussie,4.5,1414,8.99 ,$0.34  / oz
-Cetaphil Hydrating Moisturizing Cream for Dry to Very Dry Skin,Cetaphil,4.5,2239,18.99 ,$1.19  / oz
-"G-U-M Proxabrush Go-Betweens - Tight, Interdental Brushes",G-U-M,4.5,150,6.29 ,$0.63  / ea
-SheaMoisture Jamaican Black Caster Oil Strengthen & Restore Conditioner,SheaMoisture,4.5,844,11.99 ,$0.92  / oz
-Tampax Radiant Tampons with LeakGuard Braid No scent,Tampax Radiant,4.5,1481,11.99 ,$0.43  / ea
-Ocuvite Adult 50+ Lutein & Omega 3 Eye Vitamin & Mineral Supplement Softgels,Ocuvite,4.5,191,17.99 ,$0.36  / ea
-"Garnier Fructis Triple Nutrition Shampoo, Dry to Very Dry Hair",Garnier Fructis Triple Nutrition,4.5,755,5.49 ,$0.44  / oz
-Afrin No Drip Severe Congestion Nasal Spray Relief,Afrin,4.5,429,12.99 ,$25.98  / oz
-Nizoral Anti-Dandruff Shampoo,Nizoral,4.5,3763,21.99 ,$3.14  / oz
-OCuSOFT Lid Scrub Plus Eyelid Cleanser Pre-Moistened Pads,OCuSOFT,4.5,275,24.99 ,$0.83  / ea
-Dramamine Original Formula Motion Sickness Relief,Dramamine,4.5,393,9.99 ,$0.83  / ea
-"G-U-M Soft-Picks Original, Dental Floss Picks",G-U-M,4.5,107,7.49 ,$0.07  / ea
-Zicam Zicam Nasal Swabs 20s,Zicam,4.5,819,14.99 ,$0.75  / ea
-"Colgate Adult Manual Full Head Toothbrush, Soft One Size Multicolor (Packaging May Vary)",Colgate,4.5,359,2/$2.00or1/$1.29,$1.29  / ea
-Dermarest Psoriasis Max Strength Medicated Shampoo + Conditioner,Dermarest,4.5,129,8.99 ,
-Aquaphor Healing Ointment,Aquaphor,4.5,732,6.49 ,$9.27  / oz
-Gillette Fusion5 Razor Refills for Men No scent,Gillette Fusion5,4.5,3884,33.99 ,$4.25  / ea
-"U by Kotex Balance Thin Wrapped Liners Unscented, Regular (50 ct)",U by Kotex,4.5,3070,6.99 ,$0.14  / ea
-"Always Thin No Feel Protection Daily Liners Scented, Regular Absorbency",Always,4.5,2363,1.79 ,$0.09  / ea
-Flonase Allergy Relief Nasal Spray,Flonase,4.5,1053,32.99 ,$53.21  / oz
-Cetaphil Moisturizing Lotion Unscented,Cetaphil,4.5,31688,15.99 ,$1.00  / oz
-Blink Moderate-Severe Dry Eye Symptom Relief,Blink,4.5,247,14.99 ,$44.09  / oz
-"L. Ultra Thin Pads for Women, 100% Pure Cotton Top Layer Pads with Wings Unscented, Regular",L.,4.5,4193,14.49 ,$0.35  / ea
-Aveeno Daily Moisturizing Lotion with Oat for Dry Skin Fragrance-Free,Aveeno,4.5,3515,14.99 ,$0.83  / oz
-Bausch + Lomb Biotrue Multi-Purpose Solution,Bausch + Lomb,4.5,285,10.99 ,$1.10  / oz
-Native Body Wash Lavender and Rose,Native,4.5,308,9.99 ,$0.56  / oz
-Midol Complete Menstrual Period Symptoms Relief,Midol,4.5,905,12.99 ,$0.32  / ea
-Visine Red Eye Comfort Redness Relief Eye Drops,Visine,4.5,2707,6.49 ,$12.98  / oz
-Softsoap Moisturizing Body Wash Pomegranate and Mango,Softsoap,4.5,431,6.99 ,$0.35  / oz
-Walgreens Travel Bottle 3.4 oz,Walgreens,4.5,48,2/$10.00or1/$5.99,
-ReNu Advanced Multi-Purpose Solution,ReNu,4.5,281,16.99 ,$0.71  / oz
-TRESemme Extra Hold Hairspray Extra Hold,TRESemme,4.5,1317,6.99 ,
-Colgate Optic White Renewal Whitening Toothpaste High Impact White,Colgate Optic White,4.5,9477,10.49 ,$3.50  / oz
-"Vicks Sinex Severe Nasal Spray, Original Ultra Fine Mist, Decongestant Medicine",Vicks Sinex,4.5,330,13.99 ,$27.98  / oz
-Gold Bond Medicated Talc-Free Extra Strength Body Powder,Gold Bond,4.5,156,9.79 ,$0.98  / oz
-Refresh Extended Therapy Gel Drops Lubricant Eye Gel,Refresh,4.5,179,19.99 ,$58.79  / oz
-Blistex Medicated Lip Balm Value Pack Original,Blistex,4.5,247,2/$9.00or1/$4.99,$11.09  / oz
-Simply Saline Nasal Mist Instant Relief for Everyday Congestion,Simply Saline,4.5,869,11.99 ,
-CeraVe Itch Relief Moisturizing Lotion with Pramoxine Hydrochloride for Dry Skin,CeraVe,4.5,465,28.99 ,$1.81  / oz
-AXE Body Spray Deodorant Sage & Cedarwood,AXE,4.5,682,7.29 ,$1.82  / oz
-Summer's Eve Deodorant Spray Ultra,Summer's Eve,4.5,266,4.29 ,
-Vaseline Advanced Repair Body Lotion Unscented,Vaseline,4.5,104,9.79 ,$0.48  / oz
-Listerine Pocketpaks Fresh Breath Strips Mint,Listerine,4.5,1077,6.29 ,$0.09  / ea
-Nexxus Clarifying Shampoo With ProteinFusion,Nexxus,4.5,387,17.99 ,$1.33  / oz
-ChapStick Skin Protectant Lip Balm Tubes Classic Cherry,ChapStick,4.5,41,4.99 ,
-L. Cotton Tampons Regular Absorbency No scent,L.,4.5,3668,14.49 ,$0.48  / ea
-Oral-B Pro 1000 CrossAction Electric Toothbrush White,Oral-B,4.5,1255,66.99 ,
-TheraBreath Healthy Gums Oral Rinse Clean Mint,TheraBreath,4.5,261,9.79 ,$0.61  / oz
-"Carmex Daily Care Moisturizing Lip Balm, Lip Balm With Sunscreen SPF 15 Cherry/ Strawberry/ Wintergreen",Carmex,4.5,31,5.29 ,$1.76  / ea
-Vicks Waterless Vaporizer Scent Pads,Vicks,4.5,124,13.49 ,
-Cepacol Extra Strength Medicated Sore Throat Lozenges Cherry,Cepacol,4.5,268,5.99 ,$0.37  / ea
-Skintimate Skin Therapy Sensitive Skin Women's Shave Gel Sensitive Skin,Skintimate,4.5,203,3.99 ,
-Q-tips Antimicrobial Cotton Swabs,Q-tips,4.5,846,4.29 ,$0.01  / ea
-Aussie Paraben-Free Miracle Moist Shampoo For Dry Hair Avocado & Jojoba Oil,Aussie,4.5,2108,8.99 ,$0.34  / oz
-Banana Boat Sport Ultra Sunscreen Lotion SPF 100,Banana Boat,4.5,49,15.99 ,$4.00  / oz
-"Always Pure Cotton Feminine Pads For Women, With Wings, Heavy Unscented, Size 2 (24 ct)",Always,4.5,386,12.99 ,$0.54  / ea
-Opti-Free PureMoist Disinfecting Solution,Opti-Free,4.5,52,14.99 ,$1.50  / oz
-"Nexxus Masque, for Damaged Hair  - 1.5 Oz",Nexxus,4.5,276,3.49 ,
-Lubriderm Full Body Lotion Fragrance-Free,Lubriderm,4.5,1024,11.99 ,$0.75  / oz
-Walgreens Multi-Purpose Solution,Walgreens,4.5,123,8.99 ,$0.37  / oz
-Aveeno Eczema Therapy Daily Moisturizing Cream Fragrance-Free,Aveeno,4.5,1283,23.99 ,$2.00  / oz
-Walgreens Maximum Strength Severe Sinus Congestion Caplets,Walgreens,4.5,57,14.49 ,$0.72  / ea
-"Gold Bond Medicated Extra Strength Body Lotion, With Menthol",Gold Bond,4.5,207,11.99 ,$0.86  / oz
-Gillette Series Conditioning After Shave Gel,Gillette Series,4.5,227,2.99 ,$1.20  / oz
-Listerine Antiseptic Mouthwash Mint,Listerine,4.5,3063,7.49 ,$0.44  / oz
-Tom's of Maine Antiplaque & Whitening Toothpaste Peppermint,Tom's of Maine,4.5,278,7.99 ,$1.45  / oz
-Zicam Intense Sinus Relief No-Drip Relief Nasal Spray,Zicam,4.5,324,14.99 ,$29.98  / oz
-Systane Hydration PF,Systane,4.5,143,22.99 ,$0.77  / ea
-Vaseline Petroleum Jelly Cocoa Butter Cocoa Butter,Vaseline,4.5,572,5.99 ,$0.80  / oz
-Degree Men Antiperspirant Deodorant Fresh,Degree Men,4.5,459,6.49 ,$2.40  / oz
-Sensodyne Pronamel Intensive Enamel Repair Toothpaste For Sensitive Teeth Extra Fresh,Sensodyne Pronamel,4.5,442,7.99 ,$2.35  / oz
-Cetaphil Gentle Cleansing Bar,Cetaphil,4.5,1401,11.99 ,$0.89  / oz
-Super Poligrip Extra Care Zinc Free Denture And Partials Adhesive Cream Extra Care,Super Poligrip,4.5,141,5.49 ,$2.50  / oz
-Aveeno Sheer Hydration Body Lotion Fragrance-Free,Aveeno,4.5,3297,14.99 ,$0.83  / oz
-Polident Overnight Whitening Daily Cleanser Triple Mint Freshness,Polident,4.5,244,8.49 ,$0.07  / ea
-Vanicream Shampoo,Vanicream,4.5,431,12.99 ,$1.08  / oz
-Summer's Eve Cleansing Cloths for Sensitive Skin Sheer Floral,Summer's Eve,4.5,618,3.99 ,$0.25  / ea
-"Aveeno Baby Body Wash Shampoo, Oat Extract",Aveeno Baby,4.5,2115,15.99 ,$0.89  / oz
-AXE Antiperspirant Deodorant Stick Apollo,AXE,4.5,991,7.49 ,$2.77  / oz
-"L. Ultra Thin Pads for Women, 100% Pure Cotton Top Layer Pads with Wings Unscented, Super",L.,4.5,782,14.49 ,$0.35  / ea
-"Carmex Medicated Lip Balm Sticks, Lip Moisturizer for Chapped Lips",Carmex,4.5,76,5.29 ,
-Arm & Hammer Toothpaste Plus Whitening Baking Soda & Peroxide Fresh Mint,Arm & Hammer,4.5,844,5.79 ,
-CloSYS Fresh Breath Sensitive Mouth Rinse Gentle Mint,CloSYS,4.5,202,14.99 ,$0.47  / oz
-Blistex Lip Medex Analgesic Lip Protectant,Blistex,4.5,276,1.79 ,$7.16  / oz
-Walgreens Ear Wax Removal Drops,Walgreens,4.5,84,6.49 ,$12.98  / oz
-Refresh Tears Lubricant Eye Drops (Actual Item May Vary),Refresh,4.5,258,17.99 ,$17.99  / oz
-Burt's Bees Lip Balm Pack Beeswax,Burt's Bees,4.5,1486,11.99 ,$19.98  / oz
-"Summer's Eve Douche, Extra Cleansing Vinegar & Water",Summer's Eve,4.5,158,3.99 ,$1.00  / oz
-Edge Sensitive Skin Shave Gel for Men Sensitive Skin with Aloe,Edge,4.5,981,3.99 ,
-Sensodyne Extra Whitening Sensitive Teeth Whitening Toothpaste Travel Size Travel Size,Sensodyne,4.5,2058,2.49 ,
-Summer's Eve Feminine Cleansing Cloths for Sensitive Skin Sheer Floral,Summer's Eve,4.5,628,5.79 ,$0.18  / ea
-Listerine Antiseptic Mouthwash Mint,Listerine,4.5,2960,3.99 ,$0.47  / oz
-Playtex Sport Plastic Tampons Unscented,Playtex Sport,4.5,401,10.99 ,$0.31  / ea
-Secret Clear Gel Antiperspirant and Deodorant Lavender,Secret,4.5,1247,8.49 ,$3.27  / oz
-"U by Kotex Clean & Secure Ultra Thin Pads Unscented, Regular",U by Kotex,4.5,4007,6.79 ,$0.31  / ea
-"Nivea Creme - Body, Face and Hand Care",Nivea,4.5,196,8.99 ,$1.32  / oz
-Walgreens Breath Spray Mint,Walgreens,4.5,71,2.49 ,$2.08  / oz
-Degree Men Antiperspirant Deodorant Dry Spray Black + White,Degree Men,4.5,2931,7.49 ,$1.97  / oz
-"Old Spice Men's Antiperspirant & Deodorant, 24/ 7 Sweat Protection Fiji with Palm Tree + Coconut",Old Spice,4.5,1019,9.79 ,$3.77  / oz
-TheraBreath Fresh Breath Oral Rinse Invigorating Icy Mint,TheraBreath,4.5,413,9.79 ,$0.61  / oz
-Coricidin HBP Chest Congestions & Cough Liquid Gels,Coricidin HBP,4.5,354,11.99 ,
-CeraVe Itch Relief Moisturizing Cream with Pramoxine Hydrochloride for Dry Skin,CeraVe,4.5,296,28.99 ,$1.81  / oz
-Degree Men Antiperspirant Deodorant Adventure (Packaging May Vary),Degree Men,4.5,329,6.49 ,$2.40  / oz
-Walgreens Mouth Rinse Original,Walgreens,4.5,73,6.79 ,$0.20  / oz
-"Always Radiant Overnight Feminine Pads For Women, Extra Heavy, With Wings Light Clean, Size 5 (18 ct)",Always,4.5,703,11.99 ,$0.67  / ea
-WaxRx pH Conditioned Ear Wash System,WaxRx,4.0,322,39.99 ,$39.99  / ea
-Walgreens Saline Solution,Walgreens,4.0,65,3.99 ,$0.33  / oz
-SheaMoisture Conditioner Coconut & Hibiscus,SheaMoisture,4.0,230,12.99 ,
-Secret Invisible Solid Antiperspirant and Deodorant Powder Fresh,Secret,4.0,591,5.79 ,$2.23  / oz
-Walgreens Premoistened Lens Wipes,Walgreens,4.0,123,11.99 ,
-DrugConfirm 7 Drugs Home Drug Test,DrugConfirm,4.0,91,29.99 ,
-"Vicks Vapor Pads Family Pack Lavender, Rosemary",Vicks,4.0,59,15.99 ,$15.99  / ea
-"G-U-M Soft-Picks Advanced, Dental Floss Picks",G-U-M,4.0,137,7.79 ,$0.13  / ea
-Exergen Comfort Scanner Temporal Thermometer  - 1 Each,Exergen,4.0,748,44.99 ,
-Super Poligrip Denture Adhesive Cream Additive Free,Super Poligrip,4.0,117,5.49 ,$2.29  / oz
-Eucerin Original Healing Cream Fragrance Free,Eucerin,4.0,460,21.99 ,$1.37  / oz
-Walgreens Vaporizing Steam Liquid,Walgreens,4.0,147,2/$18.00or1/$9.99,
-Vaseline Hand and Body Lotion Cocoa Radiant,Vaseline,4.0,1523,9.79 ,$0.48  / oz
-Q-tips Cotton Swabs Original,Q-tips,4.0,2076,6.79 ,$0.01  / ea
-Neutrogena Ultra Sheer Dry-Touch SPF 55 Sunscreen Lotion,Neutrogena,4.0,546,14.99 ,$5.00  / oz
-Walgreens On The Move Spray Bottle for Travel Clear,Walgreens,4.0,92,2.99 ,$2.99  / ea
-Arm & Hammer Peroxi-Care Fluoride Anti-Cavity Toothpaste Mint,Arm & Hammer,4.0,392,5.79 ,$0.96  / oz
-Degree Men Antiperspirant Deodorant Sport,Degree Men,4.0,201,4.99 ,$1.85  / oz
-Walgreens Motion Sickness Relief Chewable Tablets Raspberry,Walgreens,4.0,85,8.49 ,$0.53  / ea
-Vaseline Soothing Hydration Hand and Body Lotion Aloe Soothe,Vaseline,4.0,962,5.99 ,$0.60  / oz
-Gillette Clear Gel Antiperspirant and Deodorant for Men Cool Wave,Gillette,4.0,5358,8.79 ,$2.31  / oz
-Clear Eyes Cooling Comfort Redness Relief Eye Drops,Clear Eyes,4.0,53,5.79 ,$11.58  / oz
-Walgreens Saline Nasal Moisturizing Spray,Walgreens,4.0,105,4.29 ,$4.29  / oz
-Garnier Fructis Pure Clean Pure Clean Hydrating Conditioner for All Hair Types,Garnier Fructis Pure Clean,4.0,1013,5.49 ,$0.46  / oz
-Degree Antiperspirant Deodorant Dry Spray Shower Clean,Degree,4.0,454,7.49 ,$1.97  / oz
-Olay Total Effects Tone Correcting CC Cream SPF 15 Light to Medium  - 1.7 OZ,Olay,4.0,411,27.99 ,$16.46  / oz
-"Garnier Whole Blends Repairing Conditioner, Honey Treasures",Garnier Whole Blends,4.0,20913,5.99 ,$0.48  / oz
-Sudafed PE Day + Night Maximum Strength Sinus Decongestant,Sudafed,4.0,197,10.99 ,$0.55  / ea
-Walgreens True Metrix Self-Monitoring Blood Glucose Test Strips,Walgreens,4.0,297,42.99 ,$0.86  / ea
-ACT Restoring Anticavity Fluoride Mouthwash Cool Mint,ACT,4.0,93,6.49 ,$0.36  / oz
-Walgreens Petroleum Jelly Unscented,Walgreens,4.0,129,5.99 ,$0.43  / oz
-Hyland's Naturals Kids Cold & Cough,Hyland's Naturals,4.0,121,12.99 ,$3.25  / oz
-Walgreens Maximum Strength Urinary Pain Relief Tablets,Walgreens,4.0,86,7.99 ,$0.67  / ea
-"Garnier Fructis Style Curl Construct Creation Mousse with Coconut Water, For Curly Hair",Garnier Fructis Style,4.0,647,5.99 ,
-Biotene Moisturizing Mouth Spray Gentle Mint,Biotene,4.0,530,8.49 ,$5.66  / oz
-Nexxus Mousse + Volumizing Foam,Nexxus,4.0,456,17.99 ,
-Colgate 2-in-1 Whitening Toothpaste Gel and Mouthwash,Colgate,4.0,420,6.29 ,$1.37  / oz
-"Gold Bond Healing Hydrating Cream, With Aloe Aloe",Gold Bond,4.0,1325,7.29 ,$1.33  / oz
-Softsoap Liquid Hand Soap Aquarium Refill,Softsoap,4.0,1271,6.99 ,$0.14  / oz
-Walgreens Premium Microfiber Lens Wipes,Walgreens,4.0,208,12.49 ,
-Fixodent Complete Original Denture Adhesive Cream Original,Fixodent,4.0,430,12.99 ,$2.71  / oz
-Neutrogena Ultra Sheer Dry-Touch SPF 45 Sunscreen Lotion,Neutrogena,4.0,611,20.99 ,$3.50  / oz
-Old Spice Classic Men's Deodorant Stick Original,Old Spice,4.0,254,5.79 ,$1.78  / oz
-"Debrox Earwax Removal Kit, Ear Drops and Bulb Ear Syringe",Debrox,4.0,313,10.99 ,$21.98  / oz
-Walgreens Oral Pain Relief Paste Maximum Strength Assorted,Walgreens,4.0,66,7.99 ,$19.02  / oz
-Got2b Glued Blasting Freeze Spray,Got2b,4.0,108,8.99 ,
-Wet Ones Antibacterial Hand Wipes Travel Pack Fresh,Wet Ones,4.0,300,2.79 ,$0.14  / sheet
-SheaMoisture Curl Mousse Coconut and Hibiscus,SheaMoisture,4.0,307,13.99 ,
-First Response Early Result Pregnancy Test,First Response,4.0,5602,18.99 ,
-TRESemme Hairspray Non Aerosol Extra Hold,TRESemme,4.0,604,7.99 ,
-CONTOUR NEXT Blood Glucose Strips Value Pack,CONTOUR NEXT,4.0,573,36.99 ,
-"Delsym 12 Hour Cough Suppressant Liquid, Cough Relief Medicine Orange (Actual Item May Vary)",Delsym,4.0,214,15.99 ,
-Suave Non Aerosol Hairspray Unscented,Suave,4.0,310,4.49 ,
-Sensodyne Repair And Protect Teeth Whitening Sensitive Toothpaste,Sensodyne,4.0,6893,7.99 ,$2.35  / oz
-"Vaseline Body Gel Oil, Cocoa Radiant for Glowing Skin Cocoa Radiant",Vaseline,4.0,323,9.49 ,$1.40  / oz
-Primatene Mist Epinephrine Inhalation Aerosol 160 Metered Sprays,Primatene,4.0,1503,32.99 ,$80.46  / oz
-Take Action Emergency Contraceptive  - 1 EA,Take Action,4.0,1020,39.99 ,$39.99  / ea
-Neutrogena Body Clear Body Wash,Neutrogena,4.0,724,11.49 ,$1.35  / oz
-Afrin Original Maximum Strength Nasal Spray,Afrin,4.0,207,17.99 ,$17.99  / oz
-Clear Care Plus Cleaning & Disinfecting Solution with HydraGlyde,Clear Care,4.0,333,19.99 ,$0.83  / oz
-Degree Men Antiperspirant Deodorant Cool Rush,Degree Men,4.0,255,4.99 ,$1.85  / oz
-Abreva Docosanol 10% Cold Sore Cream Tube (Actual Item May Vary),Abreva,4.0,1462,22.99 ,$328.43  / oz
-Nature Made Prenatal Multi + DHA Softgels,Nature Made,4.0,74,39.99 ,$0.44  / ea
-Walgreens Non-Medicated Vapor Inhaler,Walgreens,4.0,51,6.99 ,$699.00  / oz
-"Walgreens Docosanol Cream, 10%",Walgreens,4.0,208,17.99 ,$257.00  / oz
-Walgreens Antibacterial Plus Urinary,Walgreens,4.0,155,13.49 ,$0.56  / ea
-Walgreens Super Moleskin Padding Sheets 4-5/ 8 inch x 3-3/ 8 inch,Walgreens,4.0,46,6.99 ,
-Kanka Soft Brush Tooth/ Mouth Pain Gel Oral Anesthetic/ Oral Astringent (Packaging May Vary),Kanka,4.0,75,7.99 ,$114.14  / oz
-"Garnier Fructis Style Full Control Anti-Humidity Hairspray, Ultra Strong Hold",Garnier Fructis Style,4.0,119,7.99 ,
-Softsoap Liquid Hand Soap Pump Fresh Clear,Softsoap,4.0,1237,2.49 ,$0.33  / oz
-Secret Aluminum Free Deodorant,Secret,4.0,1292,8.79 ,$3.66  / oz
-Listerine Anticavity Fluoride Mouthwash Fresh Mint,Listerine,4.0,988,11.99 ,$0.35  / oz
-Vanicream Sensitive Skin Conditioner,Vanicream,4.0,240,12.99 ,$1.08  / oz
-Garnier Fructis Sleek & Shine Anti-Frizz Serum,Garnier Fructis Sleek & Shine,4.0,1104,7.99 ,
-Diurex Max Caffeine-Free Water Pills,Diurex,4.0,444,2/$16.00or1/$9.49,
-Gold Bond Age Renew Neck & Chest Skin Firming Age Renew Cream Fragrance Free,Gold Bond,4.0,4079,13.99 ,$7.00  / oz
-Gillette Series Shave Gel Sensitive,Gillette Series,4.0,865,4.49 ,$0.64  / oz
-Mitchum for Women Advanced Invisible Solid Anti-Perspirant & Deodorant Pure Fresh,Mitchum for Women,4.0,92,6.29 ,$2.33  / oz
-L. Cotton Tampons Regular/ Super Absorbency Multipack No scent,L.,4.0,2464,14.49 ,$0.48  / ea
-Walgreens Lubricant Eye Drops,Walgreens,4.0,69,9.99 ,$19.98  / oz
-Neutrogena Clear Face Liquid Lotion Sunscreen With SPF 30,Neutrogena,4.0,490,14.99 ,$5.00  / oz
-Walgreens Daytime & Nighttime Sinus PE Congestion Tablets,Walgreens,4.0,38,7.79 ,$0.39  / ea
-Walgreens Petroleum Jelly Unscented,Walgreens,4.0,106,4.99 ,$2.00  / oz
-Vaseline Soothing Hydration Body Lotion Aloe Soothe,Vaseline,4.0,909,9.79 ,$0.48  / oz
-Walgreens Premium Saline Nasal Moisturizing Spray,Walgreens,4.0,30,6.99 ,$2.33  / oz
-Walgreens Waxed Dental Tape Mint,Walgreens,4.0,179,1.49 ,$0.03  / yd
-Walgreens Lubricant Preservative Free Eye Drops,Walgreens,4.0,147,22.99 ,$32.84  / oz
-Walgreens Temple Touch Mini Digital Thermometer,Walgreens,4.0,681,29.99 ,
-Fixodent Secure Denture Adhesive Scope,Fixodent,4.0,491,11.99 ,$3.00  / oz
-Stye Sterile Lubricant Eye Ointment,Stye,4.0,126,12.99 ,$99.92  / oz
-AZO Urinary Tract Infection (UTI) Test Strips  - 3 EA,AZO,4.0,187,12.99 ,
-Accu-Chek Guide Me Meter,Accu-Chek,4.0,69,14.99 ,
-Walgreens Quite Clean Toothbrush Full Soft,Walgreens,4.0,14,0.99 ,$0.99  / ea
-Systane Complete Preservative Free Lubricant Eye Drops,Systane,4.0,184,29.99 ,$44.10  / oz
-"L. Ultra Thin Pads for Women, 100% Pure Cotton Top Layer Pads with Wings Unscented, Extra Long Overnight",L.,4.0,1139,14.49 ,$0.40  / ea
-"Mucinex Severe Nasal Congestion Relief Clear & Cool Nasal Spray, Nasal Decongestant Menthol",Mucinex,4.0,153,15.99 ,$21.32  / oz
-Kanka Mouth Pain Liquid (Packaging May Vary),Kanka,4.0,113,5.49 ,$16.64  / oz
-Diurex Ultimate Re-Energizing Water Pills,Diurex,4.0,51,2/$19.00or1/$10.99,
-Native Body Wash Coconut and Vanilla,Native,4.0,579,9.99 ,$0.56  / oz
-Sensodyne Repair And Protect Teeth Whitening Sensitive Toothpaste,Sensodyne,4.0,6848,14.99 ,$2.20  / oz
-Revlon ColorSilk Permanent Hair Color Dark Brown,Revlon ColorSilk,4.0,6295,5.79 ,$5.79  / ea
-Aveeno Skin Relief Intense Moisture Hand Cream Fragrance-Free,Aveeno,4.0,165,9.99 ,$2.85  / oz
-Garnier Fructis Style Finishing Paste,Garnier Fructis Style,4.0,161,5.99 ,
-"Playtex Sport Odor Shield Tampons Unscented, Regular/ Super",Playtex Sport,4.0,31,10.99 ,$0.34  / ea
-Monistat 3 Day Ovule Inserts Plus External Cream Combination Pack,Monistat,4.0,109,21.99 ,$7.33  / ea
-Gold Bond Crepe Corrector Age Renew Fragrance Free,Gold Bond,4.0,916,13.99 ,$1.75  / oz
-Walgreens Ear Drops,Walgreens,4.0,56,5.49 ,$5.49  / oz
-Orajel 4x Severe Toothache Oral Pain Reliever Cream,Orajel,4.0,173,11.49 ,$34.82  / oz
-"Garnier Fructis Style Full Control Anti-Humidity Hairspray, Non-Aerosol",Garnier Fructis Style,4.0,200,7.99 ,
-Secret Invisible Solid Antiperspirant and Deodorant Shower Fresh,Secret,4.0,335,5.79 ,$2.23  / oz
-"Gillette Foamy Foamy Men's Regular Shaving Cream, Travel Size",Gillette Foamy,4.0,165,1.29 ,$0.65  / oz
-Walgreens Adhesive Eye Patch 2 1/ 4 inch x 3 1/ 8 inch,Walgreens,4.0,67,2/$11.00or1/$6.79,
-Walgreens Anti-Itch Cream,Walgreens,4.0,79,6.79 ,$6.79  / oz
-ACT Dry Mouth Moisturizing Lozenges Soothing Mint,ACT,4.0,161,6.99 ,$0.19  / ea
-L'Oreal Paris Everpure Sulfate Free Purple Conditioner for Toning Blonde and Bleached Hair,L'Oreal Paris Everpure,4.0,2159,9.99 ,$1.47  / oz
-L'Oreal Paris Elvive 8 Second Wonder Water Rinse Out Lamellar Hair Treatment,L'Oreal Paris Elvive,4.0,370,11.99 ,
-Toppik Hair Building Fibers Black,Toppik,4.0,454,28.99 ,$69.02  / oz
-Super Poligrip Original Formula Zinc Free Denture And Partials Adhesive Cream Original,Super Poligrip,4.0,51,5.49 ,$2.29  / oz
-Walgreens Humidifier Ultrasonic Technology 0.5 Gallon,Walgreens,4.0,105,31.99 ,
-SheaMoisture Leave In Conditioner 100% Pure Jamaican Black Castor Oil,SheaMoisture,4.0,445,13.99 ,$1.22  / oz
-TRESemme Hair Mousse Extra Hold Extra Hold,TRESemme,4.0,326,7.99 ,
-Crest 3D Whitestrips Glamorous White Teeth Whitening Kit,Crest,4.0,578,39.99 ,$2.86  / ea
-SheaMoisture Defining Styling Gel Coconut & Hibiscus Coconut & Hibiscus,SheaMoisture,4.0,124,10.99 ,
-Walgreens Women's Triple Blade Razors,Walgreens,4.0,43,1.79 ,$0.60  / ea
-Walgreens Tea Tree Oil (Packaging May Vary),Walgreens,4.0,49,9.99 ,$9.99  / oz
-Nix Permethrin Lice Killing Creme Rinse Kit (Actual Item May Vary),Nix,4.0,121,42.99 ,
-Walgreens Ear Wax Removal Kit,Walgreens,4.0,125,7.99 ,$7.99  / ea
-Mr. Bubble Bubble Bath Original,Mr. Bubble,4.0,17,5.29 ,$0.33  / oz
-RepHresh Odor Eliminating Vaginal Gel,RepHresh,4.0,11458,29.99 ,$107.11  / oz
-"Garnier Fructis Pure Clean Fortifying Shampoo, With Aloe and Vitamin E Extract",Garnier Fructis Pure Clean,4.0,1375,5.49 ,$0.44  / oz
-Walgreens Nasal Saline Mist,Walgreens,4.0,99,8.99 ,$2.00  / oz
-Gillette Venus Sensitive Sensible Sensitive Women's Disposable Razor,Gillette Venus Sensitive Sensible,4.0,369,9.49 ,$3.16  / ea
-Sensodyne Sensitive Toothpaste Fresh Mint (Packaging May Vary),Sensodyne,4.0,3914,7.99 ,$2.00  / oz
-Orajel 3X Medicated For All Mouth Sores Gel,Orajel,4.0,150,9.79 ,$23.31  / oz
-Not Your Mother's Beach Babe Texturizing Dry Shampoo Toasted Coconut,Not Your Mother's,4.0,988,8.49 ,$1.21  / oz
-Clairol Nice 'n Easy Root Touch-Up Permanent Hair Color 4 Dark Brown,Clairol Nice 'n Easy,4.0,498,10.49 ,$10.49  / ea
-"Walgreens 3-In-1 Travel Kit with Toothpaste, Mouthwash, and Travel Toothbrush",Walgreens,4.0,53,4.29 ,
-Cicatricure Scar Gel,Cicatricure,4.0,77,19.99 ,
-Dramamine All Day Less Drowsy Motion Sickness Relief,Dramamine,4.0,116,9.99 ,$1.25  / ea
-OGX Biotin & Collagen Extra Strength Shampoo,OGX,4.0,1879,11.99 ,$0.92  / oz
-"Gold Bond Medicated Original Strength Body Powder, Talc-Free",Gold Bond,4.0,533,2/$16.00or1/$8.49,$0.85  / oz
-TRESemme Hydrating Shampoo Moisture Rich,TRESemme,4.0,1264,7.29 ,$0.26  / oz
-Walgreens Clotrimazole Vaginal Cream,Walgreens,4.0,92,15.99 ,$15.99  / ea
-ChapStick Flavored Lip Balm Tube Classic Cherry,ChapStick,4.0,19896,1.99 ,
-Walgreens Soothing Eye Wash,Walgreens,4.0,168,4.79 ,
-Orajel Baby Daytime and Nighttime Non-Medicated Cooling Gels for Teething,Orajel,4.0,179,6.79 ,$18.86  / oz
-Chloraseptic Sore Throat Lozenges Cherry (Actual Item May Vary),Chloraseptic,4.0,161,6.49 ,$0.36  / ea
-Afrin No Drip Extra Moisturizing Nasal Pump Mist,Afrin,4.0,338,12.99 ,$25.98  / oz
-Walgreens Hand Sanitizer Wipes,Walgreens,4.0,117,4.99 ,$0.07  / ea
-Dristan 12-Hour Nasal Spray Decongestant  - 0.5 Fl Oz,Dristan,4.0,79,6.49 ,$12.98  / oz
-Plan B One-Step Emergency Contraceptive,Plan B,4.0,1617,49.99 ,$49.99  / ea
-U by Kotex Click Compact Tampons Unscented,U by Kotex,4.0,2284,7.79 ,$0.49  / ea
-"Walgreens Clotrimazole 3 Vaginal Cream USP, (2%) & Applicators",Walgreens,4.0,95,14.99 ,
-Gillette Venus Women's Razor Handle + Blade Refills White Tea Pink,Gillette Venus,4.0,1086,11.49 ,$11.49  / ea
-Walgreens Twin Blade Disposable Razors with Lubricating Strip,Walgreens,4.0,45,2/$3.00or1/$2.79,$0.28  / ea
-TRESemme Extra Hold Alcohol-Free Gel Extra Hold,TRESemme,4.0,786,7.99 ,
-"Compound W Maximum Strength Fast Acting Gel Wart Remover, Salicylic Acid Wart Remover",Compound W,4.0,87,11.99 ,
-St. Ives Blackhead Clearing Face Scrub Green Tea & Bamboo,St. Ives,4.0,668,5.79 ,$0.96  / oz
-Walgreens Motion Sickness Relief Tablets,Walgreens,4.0,94,8.49 ,$0.53  / ea
-Vaseline Nourishing Moisture Body Lotion Essential Healing,Vaseline,4.0,1155,5.99 ,$0.60  / oz
-"U by Kotex Compact Multipack Tampons, Regular/ Super Unscented",U by Kotex,4.0,2779,11.49 ,$0.38  / ea
-Dial Body Wash Spring Water (Actual Item May Vary),Dial,4.0,323,6.29 ,$0.39  / oz
-Color Oops Hair Color Remover Extra Strength,Color Oops,4.0,1320,16.99 ,$16.99  / ea
-"FreeStyle Lite, Blood Glucose Monitoring System",FreeStyle,4.0,153,22.99 ,
-Waterpik Cordless Water Flosser,Waterpik,4.0,3587,45.99 ,
-"Rogaine Women's 2% Minoxidil Liquid Topical Solution Unscented, 3 Month",Rogaine,4.0,354,74.99 ,$12.50  / oz
-Replens Long-Lasting Vaginal Moisturizer,Replens,4.0,9220,24.99 ,$20.32  / oz
-PATADAY Eye Itch Relief,PATADAY,4.0,231,23.99 ,$299.88  / oz
-AZO Bladder Control with Go-Less Daily Supplement Capsules  - 54 EA,AZO,4.0,1779,31.99 ,$0.59  / ea
-L'Oreal Paris Excellence Creme Permanent Triple Care Hair Color Medium Golden Brown 5G,L'Oreal Paris Excellence,3.5,1188,11.99 ,
-Walgreens Orthodontic Wax Mint,Walgreens,3.5,57,2.99 ,$1.50  / ea
-Walgreens Ear Wax Removal Kit,Walgreens,3.5,111,8.49 ,$16.98  / oz
-Walgreens Lubricant Eye Drops,Walgreens,3.5,70,9.99 ,$19.98  / oz
-Compound W Freeze Off Wart Removal,Compound W,3.5,138,18.99 ,
-Eucerin Skin Calming Daily Moisturizing Creme,Eucerin,3.5,227,14.99 ,$1.07  / oz
-Walgreens Premium True Metrix Self-Monitoring Blood Glucose Meter Black,Walgreens,3.5,584,19.99 ,
-Caress Beauty Bars Daily Silk,Caress,3.5,728,8.29 ,$0.37  / oz
-Vaseline Fast Absorbing Body Lotion Fast Absorbing,Vaseline,3.5,230,9.79 ,$0.48  / oz
-Walgreens A1C Test Kit,Walgreens,3.5,481,49.99 ,
-L'Oreal Paris Magic Root Cover Up Gray Concealer Spray Medium Brown,L'Oreal Paris Magic Root Cover Up,3.5,4071,11.49 ,
-CeraVe Eczema Relief Creamy Body Oil  - 8 OZ,CeraVe,3.5,149,18.99 ,
-Conair Turbo Styler Ionic Hair Dryer Pink,Conair,3.5,120,21.99 ,
-"Mucinex InstaSoothe Sore Throat Relief Drops, For Soothing Comfort Honey & Echinacea",Mucinex InstaSoothe,3.5,102,4.99 ,$0.25  / ea
-"Garnier Fructis Style Curl Scrunch Controlling Gel with Coconut Water, For Curly Hair",Garnier Fructis Style,3.5,1024,5.99 ,
-DrugConfirm 14 Drug Test,DrugConfirm,3.5,51,39.99 ,
-Anbesol Maximum Strength Oral Pain Relief Gel,Anbesol,3.5,22,7.99 ,$24.21  / oz
-Walgreens Infused Flossers Mint,Walgreens,3.5,60,3.99 ,$0.04  / ea
-Walgreens Early Result Pregnancy Test,Walgreens,3.5,110,12.99 ,
-Abreva Docosanol 10% Cold Sore Cream Tube,Abreva,3.5,1212,22.99 ,$328.43  / oz
-Walgreens Sitz Bath,Walgreens,3.5,243,21.99 ,
-"Carefree Acti-Fresh Body Shape Panty Liners Wrapped Unscented, Extra Long",Carefree,3.5,139,5.49 ,$0.15  / ea
-DenTek Professional-Fit Dental Guard,DenTek,3.5,127,25.99 ,$25.99  / ea
-Walgreens Oral Relief Sore Throat Spray Cherry,Walgreens,3.5,104,2/$14.00or1/$7.99,$1.33  / oz
-Walgreens Maximum Strength One-Step Clear Wart Remover Strips,Walgreens,3.5,31,8.99 ,
-Monistat 1 Day or Night Ovule Insert Plus External Cream Combination Pack,Monistat 1,3.5,319,25.99 ,$25.99  / ea
-Clairol Natural Instincts Hair Color 4 Dark Brown,Clairol Natural Instincts,3.5,2058,10.49 ,$10.49  / ea
-DrugConfirm 1 Drug Marijuana Test,DrugConfirm,3.5,154,16.99 ,
-Quest Products AsthmaMD Lung Performance Peak Flow Meter,Quest Products,3.5,60,21.99 ,$21.99  / ea
-Walgreens Digital Thermometer 30 Second Rigid-Tip,Walgreens,3.5,998,9.99 ,
-Walgreens Anefrin Nasal Spray,Walgreens,3.5,158,10.99 ,$10.99  / oz
-Orajel 4X Medicated For Toothache & Gum Gel,Orajel,3.5,200,11.49 ,$45.96  / oz
-Walgreens Waterproof Silicone Earplugs,Walgreens,3.5,50,2/$8.00or1/$4.99,$0.83  / ea
-Walgreens Upper Mouth Guards,Walgreens,3.5,123,17.99 ,$5.14  / oz
-Eucerin Advanced Repair Hand Cream Fragrance Free,Eucerin,3.5,436,5.99 ,$2.22  / oz
-Walgreens Whitening Wraps with Advanced Form Fitting Technology Mint,Walgreens,3.5,221,24.99 ,$0.89  / ea
-Walgreens Beauty Mini Mesh Sponge Assorted Colors (Brand May Vary),Walgreens Beauty,3.5,7,1.25 ,
-Stye Stye Warming Compress Eye Therapy,Stye,3.5,167,13.99 ,
-Rogaine Men's Extra Strength 5% Minoxidil Solution Unscented,Rogaine,3.5,352,74.99 ,$12.50  / oz
-"AZO Yeast Plus Dual Relief, Homeopathic, Tablets",AZO,3.5,244,11.49 ,$0.19  / ea
-SheaMoisture Curl Enhancing Smoothie Coconut & Hibiscus,SheaMoisture,3.5,1775,2.99 ,$0.93  / oz
-Clinere Personal Ear Cleaners for Earwax Removal,Clinere,3.5,96,9.99 ,$1.00  / ea
-OneTouch Ultra 2 Blood Glucose Meter Kit,OneTouch Ultra 2,3.5,109,29.99 ,
-Rogaine Men's 5% Minoxidil Foam For Hair Regrowth Unscented,Rogaine,3.5,922,74.99 ,$11.85  / oz
-ChapStick Classic Lip Balm Tube Original  - .15 oz,ChapStick,3.0,170,1.99 ,
-Secret Clinical Strength Invisible Solid Antiperspirant and Deodorant for Women Stress Response,Secret,3.0,177,10.99 ,$6.87  / oz
-Walgreens Tioconazole Ointment 6.5% 1-Dose Treatment for Vaginal Yeast Infection,Walgreens,3.0,68,18.99 ,$118.69  / oz
-ChapStick Lip Moisturizer Skin Protectant Lip Balm Tubes Original,ChapStick,3.0,196,4.99 ,
-SNORERx Snore Rx Stop Snoring Mouthguard,SNORERx,3.0,302,59.99 ,$59.99  / ea
-Softsoap Hand Soap Pump Aloe,Softsoap,3.0,1116,2.49 ,$0.33  / oz
-Foster Grant IM2000 Ironman Reading Glasses,Foster Grant,3.0,53,31.99 ,
-L'Oreal Paris Feria Advanced Lightening System Bleach Hyper Platinum,L'Oreal Paris Feria,3.0,2802,12.99 ,$12.99  / ea
-Walgreens Digital 10 Second Flexible Tip Thermometer,Walgreens,3.0,208,15.99 ,
-Walgreens Concave Eye Protector,Walgreens,2.5,113,6.99 ,
-Nature Made Prenatal with Folic Acid + DHA Softgels Orange,Nature Made,2.5,215,33.99 ,$0.57  / ea
-Walgreens Infrared Digital Ear Thermometer  - 1 EA,Walgreens,1.5,154,39.99 ,
+product_name,brand,ratings,num_of_reviews,old_price,product_price
+Vaseline Lip Therapy Lip Balm Mini Original - 0.25 oz,Vaseline,4.0,222.0,0.0,2.99
+Plan B One-Step Emergency Contraceptive - 1 ea,Plan B,4.0,1630.0,0.0,49.99
+Primatene Mist Epinephrine Inhalation Aerosol 160 Metered Sprays - 1 ea,Primatene,4.0,1513.0,0.0,32.99
+Opti-Free PureMoist Multi-Purpose Disinfecting Solution - 10 fl oz x 2 pack,Opti-Free,4.5,779.0,0.0,22.99
+"Poise Postpartum Incontinence Pads, Long 6 Drop Ultimate Absorbency Long Length (ct 45) - 45 ea",Poise,4.0,3022.0,0.0,24.99
+Cepacol Extra Strength Sore Throat Relief Lozenges Honey Lemon - 16 ea,Cepacol,4.5,274.0,0.0,5.99
+Crest Complete Whitening Toothpaste Minty Fresh - 5.4 oz,Crest Complete,4.5,12357.0,0.0,4.0
+Vaseline Soothing Hydration Hand and Body Lotion Aloe Soothe - 10 fl oz,Vaseline,4.0,963.0,0.0,5.99
+Biotene Moisturizing Mouth Spray Gentle Mint - 1.5 fl oz,Biotene,4.0,532.0,0.0,8.49
+BIC Smooth Scented Women's Disposable Razor Lavender - 4 ea,BIC,4.5,837.0,0.0,6.99
+Biotene Dry Mouth Lozenges For Fresh Breath Refreshing Mint - 27 ea,Biotene,4.5,648.0,0.0,8.49
+Vaseline Nourishing Moisture Body Lotion Essential Healing - 10 fl oz,Vaseline,4.0,1156.0,0.0,5.99
+Colgate Toothpaste with Mini Breath Strips Cool Mint - 6 oz,Colgate,4.5,687.0,0.0,4.0
+"Olay Complete Daily Moisturizer with Sunscreen SPF 15, Sensitive Fragrance-Free - 4 fl oz",Olay Complete,4.5,591.0,0.0,11.99
+Cepacol Extra Strength Sore Throat & Cough Relief Lozenges Mixed Berry - 16 ea,Cepacol,4.5,250.0,0.0,5.99
+Nivea Essentially Enriched Body Lotion - 16.9 fl oz,Nivea,4.5,3299.0,0.0,10.99
+Softsoap Hand Soap Pump Aloe - 7.5 fl oz,Softsoap,3.0,1116.0,0.0,2.49
+Walgreens Fingertip Pulse Oximeter - 1 ea,Walgreens,4.5,4857.0,0.0,34.99
+Walgreens Digital Thermometer 30 Second Rigid-Tip - 1 ea,Walgreens,3.5,1003.0,0.0,9.99
+Take Action Emergency Contraceptive - 1 EA,Take Action,4.0,1034.0,0.0,39.99
+Crest Pro-Health Advanced Extra Whitening Toothpaste - 3.5 oz,Crest Pro-Health Advanced,4.5,579.0,0.0,4.0
+"Walgreens Certainty Underpads, Maximum Absorbency XL (30 ct) - 30 ea",Walgreens Certainty,4.5,1451.0,0.0,18.99
+Oral-B Dental Floss Picks Scope Flavor - 75 ea,Oral-B,4.5,7983.0,0.0,4.0
+"Walgreens Certainty Overnight Incontinence Pads, Ultimate Absorbency - 30 ea",Walgreens Certainty,4.5,1347.0,0.0,12.99
+Vanicream Moisturizing Cream - 1 lb,Vanicream,4.5,422.0,0.0,16.99
+Tena Intimates Extra Coverage Overnight Incontinence Pads - 28 ea,Tena,4.5,1170.0,0.0,16.99
+"Always Infinity Pads, Heavy, with Wings Unscented, Size 2 (32 ct) - 32 ea",Always,4.5,1451.0,0.0,11.99
+"Garnier Fructis Sleek & Shine Fortifying Shampoo for Frizzy, Dry Hair - 12.5 fl oz",Garnier Fructis Sleek & Shine,4.0,2046.0,0.0,5.49
+L'Oreal Paris Elvive Total Repair 5 Repairing Shampoo for Damaged Hair - 12.6 fl oz,L'Oreal Paris Elvive,4.5,784.0,0.0,5.49
+"Walgreens Certainty Incontinence Guards for Men, Maximum Absorbency - 52 ea",Walgreens Certainty,4.0,982.0,0.0,12.99
+"CeraVe SA Lotion, Lightweight Exfoliating Salicylic Body Lotion for Rough & Bumpy Skin Fragrance Free - 8 fl oz",CeraVe,4.5,1866.0,0.0,19.99
+Dove Deep Moisture Body Wash - 20 fl oz,Dove,4.5,7866.0,0.0,7.0
+Crest Pro-Health Advanced Extra Teeth Whitening Toothpaste - 5.1 oz,Crest Pro-Health Advanced,4.5,415.0,0.0,5.0
+"Always Infinity Feminine Pads for Women with Wings, Extra Heavy Overnight Unscented, Size 5 - 22 ea",Always,4.5,1008.0,0.0,11.99
+"Garnier Fructis Grow Strong Shampoo, For Stronger, Healthier, Shinier Hair - 12.5 fl oz",Garnier Fructis Grow Strong,4.0,1324.0,0.0,5.49
+First Response Triple Check Pregnancy Test - 3 ea,First Response,4.0,564.0,0.0,24.99
+Clear Care Triple Action Cleaning & Disinfecting Solution - 24 oz x 2 pack,Clear Care,4.5,547.0,0.0,19.99
+"Walgreens Adult Washcloths Fresh, 12 x 8 White - 48 ea",Walgreens,4.5,571.0,0.0,9.99
+"Always Maxi Overnight Pads with Wings for Women, Extra Heavy Overnight Absorbency Unscented, Size 5 (27 ct) - 27 ea",Always,4.5,2831.0,0.0,12.99
+Blink For Soft and RGP Contact Lenses - 0.34 fl oz,Blink,4.5,547.0,0.0,7.99
+L'Oreal Paris Elvive Dream Lengths Restoring Shampoo - 12.6 fl oz,L'Oreal Paris Elvive,4.5,576.0,0.0,5.49
+Olay Fresh Outlast Body Wash Birch Water & Lavender - 22 fl oz,Olay,4.5,251.0,0.0,7.0
+SheaMoisture Kids Extra Moisturizing Detangler Coconut and Hibiscus - 8 oz,SheaMoisture,4.5,311.0,0.0,12.99
+Clear Care Plus Cleaning & Disinfecting Solution with HydraGlyde - 12 fl oz x 2 pack,Clear Care,4.0,336.0,0.0,19.99
+"La Roche-Posay Lipikar Triple Repair Lotion, Body and Face Moisturizer - 13.52 fl oz",La Roche-Posay,4.5,2953.0,0.0,19.99
+"Garnier Fructis Sleek & Shine Fortifying Conditioner for Frizzy, Dry Hair - 12 fl oz",Garnier Fructis Sleek & Shine,4.5,1477.0,0.0,5.49
+L'Oreal Paris Elvive Dream Lengths Conditioner - 12.6 fl oz,L'Oreal Paris Elvive,4.5,512.0,0.0,5.49
+CeraVe Face & Body Moisturizing Cream with Pump for Normal to Dry Skin Unscented - 16 oz,CeraVe,4.5,16383.0,0.0,19.99
+"Olay Ultra Moisture Body Wash Coconut Oil, 22 oz - 22 fl oz",Olay Ultra Moisture,4.5,280.0,0.0,7.0
+"Garnier Whole Blends Repairing Shampoo, Honey Treasures - 12.5 fl oz",Garnier Whole Blends,4.0,21943.0,0.0,5.99
+"Vaseline Body Gel Oil, Cocoa Radiant for Glowing Skin Cocoa Radiant - 6.8 fl oz",Vaseline,4.0,323.0,0.0,9.49
+CeraVe Moisturizing Face and Body Lotion with Hyaluronic Acid for Normal to Dry Skin Unscented - 16 fl oz,CeraVe,4.5,8893.0,0.0,18.99
+L'Oreal Paris Elvive Total Repair Extreme Renewing Conditioner - 12.6 fl oz,L'Oreal Paris Elvive,4.5,306.0,0.0,5.49
+Gold Bond Age Renew Neck & Chest Skin Firming Age Renew Cream Fragrance Free - 2 oz,Gold Bond,4.0,4081.0,0.0,13.99
+Nexxus Comb Thru Finishing Mist - 10 oz,Nexxus,4.0,461.0,0.0,17.99
+L'Oreal Paris Elvive Total Repair 5 Repairing Conditioner for Damaged Hair - 12.6 fl oz,L'Oreal Paris Elvive,4.0,460.0,0.0,5.49
+Walgreens Cough Drops Honey Lemon - 200 ea,Walgreens,4.5,375.0,0.0,6.49
+"Always Discreet Adult Incontinence Pads for Women, Postpartum Pads No scent, Light Absorbency, Regular Length - 30 ea",Always Discreet,4.5,524.0,0.0,7.99
+"Always Discreet Adult Incontinence Pads for Women, Moderate Absorbency, Regular Length Regular Length - 66 ea",Always Discreet,4.5,4.0,0.0,18.99
+"Colgate Adult Manual Full Head Toothbrush, Soft One Size Multicolor (Packaging May Vary) - 1 ea",Colgate,4.5,360.0,0.0,1.29
+Colgate MaxFresh Toothpaste with Mini Breath Strips Clean Mint (Packaging May Vary) - 6 oz,Colgate MaxFresh,4.5,295.0,0.0,4.0
+Polident 3 Minute Antibacterial Denture Cleanser Effervescent Tablets Triple Mint - 120 ea,Polident,4.5,253.0,0.0,8.49
+Olay Fresh Outlast Body Wash White Strawberry & Mint - 22 fl oz,Olay Fresh Outlast,4.5,52382.0,0.0,7.0
+Nexxus Maxximum Finishing Mist for Control - 10 oz,Nexxus,4.0,259.0,0.0,17.99
+Walgreens Long Pantiliners Unscented - 92 ea,Walgreens,4.0,395.0,0.0,4.49
+"Gold Bond Healing Hand Cream, With Aloe to Soothe & Comfort - 3 oz",Gold Bond,4.5,1857.0,0.0,4.79
+"Garnier Whole Blends Repairing Conditioner, Honey Treasures - 12.5 fl oz",Garnier Whole Blends,4.0,20917.0,0.0,5.99
+Softsoap Liquid Hand Soap Pump Fresh Clear - 7.5 fl oz,Softsoap,4.0,1237.0,0.0,2.49
+Chloraseptic Sore Throat Lozenges Cherry (Actual Item May Vary) - 18 ea,Chloraseptic,4.0,161.0,0.0,6.49
+Ricola Cough Drops Original (Actual Item May Vary) - 21 ea,Ricola,4.5,433.0,0.0,3.99
+Crest Whitening Plus Scope Toothpaste - 5.4 oz x 2 pack,Crest,4.5,8041.0,0.0,7.0
+"Olay Complete Lotion Moisturizer with SPF 15, Sensitive Skin Fragrance-Free - 6 fl oz",Olay Complete,4.5,555.0,0.0,16.99
+Nivea Shea Nourish Body Lotion - 16.9 fl oz,Nivea,4.5,482.0,0.0,10.99
+Nivea Intense Healing Body Lotion - 16.9 fl oz,Nivea,4.5,360.0,0.0,10.99
+Ricola Herb Throat Drops Sugar Free Lemon Mint (Actual Item May Vary) - 19 ea,Ricola,4.5,277.0,0.0,3.99
+Nivea Body Lotion Cocoa Butter - 16.9 fl oz,Nivea,4.5,1298.0,0.0,10.99
+Olay Complete Lotion Moisturizer with SPF 15 Normal - 4 fl oz,Olay Complete,4.5,210.0,0.0,11.99
+ChapStick Flavored Lip Balm Tube Classic Cherry - 0.15 oz,ChapStick,4.0,19896.0,0.0,1.99
+Luden's Throat Drops Wild Cherry - 90 ea,Luden's,4.0,271.0,0.0,5.99
+Colgate Total Toothpaste Gel Fresh Mint Stripe - 3.3 oz,Colgate Total,4.5,413.0,0.0,4.0
+Pantene Daily Moisture Renewal 72 Hour Lush Moisture Shampoo - 12 OZ,Pantene,4.5,390.0,0.0,5.0
+Walgreens 24 Hour Relief Allergy Nasal Spray - .62 fl oz,Walgreens,4.5,135.0,0.0,22.99
+ChapStick Classic Lip Balm Tube Strawberry - 0.15 oz,ChapStick,4.5,68.0,0.0,1.99
+Crest Advanced Deep Clean Toothpaste Mint - 5.1 oz,Crest,4.0,588.0,0.0,5.0
+"Gold Bond Medicated Original Strength Body Powder, Talc-Free - 10 oz",Gold Bond,4.0,534.0,0.0,8.49
+Burt's Bees Kids Toothpaste Strawberry Splash - 4.7 oz,Burt's Bees,4.0,164.0,0.0,4.79
+Ricola Echinacea Cough Drops Honey Lemon (Actual Item May Vary) - 19 ea,Ricola,4.5,112.0,0.0,3.99
+ChapStick Lip Balm Tropical Paradise - 0.15 oz,ChapStick,4.0,86.0,0.0,1.99
+ChapStick Moisturizer SPF 15 Original - .15 oz,ChapStick,2.5,130.0,0.0,1.99
+Calmoseptine Calmoseptine Ointment to Prevent & Heal Skin Irritations - 4 oz,Calmoseptine,4.5,618.0,0.0,11.49
+PreserVision AREDS 2 Formula Eye Vitamin & Mineral Supplement Softgels - 120 ea,PreserVision,4.5,1851.0,0.0,39.99
+AZO Urinary Pain Relief Maximum Strength Tablets - 12 EA,AZO,4.5,1163.0,0.0,11.99
+Monistat 1 Day or Night Ovule Insert Plus External Cream Combination Pack - 1 set,Monistat 1,3.5,321.0,0.0,25.99
+Purell Advanced Hand Sanitizer Gel - 2 fl oz,Purell,4.5,114.0,0.0,2.09
+OraQuick In-Home HIV Test - 1 ea,OraQuick,4.5,277.0,0.0,49.99
+Crest 3D Whitestrips Professional Effects Teeth Whitening Kit - 1 set,Crest,4.0,4781.0,0.0,45.99
+Bausch + Lomb Eye Wash - 4 fl oz,Bausch + Lomb,4.5,262.0,0.0,5.49
+Crest Pro-Health Multi Protection Oral Rinse Clean Mint - 33.8 fl oz,Crest Pro-Health,4.5,4314.0,0.0,6.0
+Abreva Docosanol 10% Cold Sore Cream Tube (Actual Item May Vary) - 0.07 oz,Abreva,4.0,1464.0,0.0,22.99
+Walgreens Premium Saline Nasal Moisturizing Spray - 3 fl oz,Walgreens,4.0,31.0,0.0,6.99
+Vanicream Shampoo - 12 fl oz,Vanicream,4.5,435.0,0.0,12.99
+"CeraVe SA Body Wash, Gentle Exfoliating Salicylic Acid Cleanser for Rough & Bumpy Skin - 10 fl oz",CeraVe,4.5,275.0,0.0,13.99
+RepHresh Odor Eliminating Vaginal Gel - 4 ea,RepHresh,4.0,11458.0,0.0,29.99
+SheaMoisture Smoothie Curl Enhancing Cream Coconut and Hibiscus - 12 oz,SheaMoisture,4.0,720.0,0.0,13.99
+"Olay Ultra Moisture Ultra Moisture Bar Soap Shea Butter, 6 bars, 4 oz each - 3.75 oz x 6 pack",Olay Ultra Moisture,4.0,403.0,0.0,8.29
+"Always Radiant Feminine Pads For Women, Regular, With Wings Light Clean, Size 1 (30 ct) - 30 ea",Always,4.5,1805.0,0.0,11.99
+Softsoap Antibacterial Liquid Hand Soap Pump Crisp Clean - 11.25 fl oz,Softsoap,4.5,267.0,0.0,3.29
+Refresh Mega-3 Lubricant Eye Drops Preservative-Free - 0.01 fl oz x 30 pack,Refresh,4.5,2480.0,0.0,21.99
+Dial Body Wash Gold Gold - 16 fl oz,Dial,4.5,471.0,0.0,6.29
+"Walgreens Incontinence Briefs with Tabs, Unisex, Maximum Absorbency Large - 32 ea",Walgreens,4.0,140.0,0.0,18.99
+La Roche-Posay Anthelios Sunscreen for Face SPF 50 Tinted - 1.7 fl oz,La Roche-Posay Anthelios,4.0,2762.0,0.0,37.99
+"Garnier Fructis Pure Clean Fortifying Shampoo, With Aloe and Vitamin E Extract - 12.5 fl oz",Garnier Fructis Pure Clean,4.0,1375.0,0.0,5.49
+Walgreens Cool Mist Humidifier - 1 ea,Walgreens,3.5,232.0,0.0,31.99
+Bausch + Lomb Lumify Redness Reliever Eye Drops - 0.08 fl oz,Bausch + Lomb Lumify,4.5,2562.0,0.0,18.99
+Bausch + Lomb Biotrue Multi-Purpose Solution - 10 oz x 2 pack,Bausch + Lomb,4.5,694.0,0.0,19.99
+"Tampax Pearl Tampons, with LeakGuard Braid No scent, Ultra Absorbency - 18 ea",Tampax Pearl,4.5,1245.0,0.0,6.99
+"Depend Incontinence Guards for Men, Maximum Absorbency - 52 ea",Depend,4.0,639.0,0.0,18.99
+"Olay Age Defy Age Defy Bar Soap, Vitamin E 6 bars, 3.75 oz each - 3.75 oz x 6 pack",Olay Age Defy,4.0,341.0,0.0,8.29
+Opti-Free RepleniSH Multi-Purpose Disinfection Solution Value Pack - 2 ea x 2 pack,Opti-Free,4.5,231.0,0.0,19.99
+CeraVe Moisturizing Face and Body Lotion with Hyaluronic Acid for Normal to Dry Skin Unscented - 8 fl oz,CeraVe,4.5,8791.0,0.0,14.99
+CeraVe Healing Ointment - 5 oz,CeraVe,4.5,1415.0,0.0,12.99
+"Oral-B Super Floss Pre-Cut Strands, Dental Floss for Bridges, Braces and Wide Spaces Mint - 50 ea",Oral-B,3.5,419.0,0.0,4.0
+Crest Pro-Health Advanced Gum Protection Toothpaste - 3.5 oz,Crest Pro-Health Advanced,4.0,459.0,0.0,4.0
+Rogaine Men's 5% Minoxidil Foam For Hair Regrowth Unscented - 2.11 oz x 3 pack,Rogaine,3.5,923.0,0.0,74.99
+"Oral-B EssentialFloss, Cavity Defense Mint - 54 yd",Oral-B,4.5,187.0,0.0,2.79
+"Walgreens Certainty Premium Underpads, Day & Night Protection, Ultimate Absorbency X-Large - 8 ea",Walgreens Certainty,4.5,313.0,0.0,12.99
+Sudafed PE Day + Night Maximum Strength Sinus Decongestant - 20 ea,Sudafed,4.0,198.0,0.0,10.99
+Vanicream Gentle Body Wash Fragrance Free - 12 fl oz,Vanicream,4.5,185.0,0.0,11.99
+Always Discreet Adult Incontinence Underwear for Women S/ M (32 ct) - 32 ea,Always Discreet,4.5,125.0,0.0,23.49
+Crest Scope Classic Mouthwash Original Mint - 33.8 fl oz,Crest,4.5,1090.0,0.0,5.5
+"Tampax Pearl Tampons Trio Multipack, with LeakGuard Braid No scent - 34 ea",Tampax Pearl,4.5,971.0,0.0,11.99
+"Walgreens Certainty Incontinence Pads, 6 Drop Ultimate Absorbency Long Length - 45 ea",Walgreens Certainty,4.0,570.0,0.0,18.99
+"Always Discreet Adult Incontinence Pads for Women, Postpartum Pads No scent, 6 Extra Heavy Absorbency, Long Length - 45 ea",Always Discreet,0.0,0.0,0.0,24.99
+SheaMoisture Bar Soap - 8 oz,SheaMoisture,4.0,952.0,0.0,6.79
+Colgate Stain Fighter Whitening Toothpaste Gel Fresh Mint Gel - 4.2 oz,Colgate,4.5,925.0,0.0,4.0
+"Vicks Sinex Severe Nasal Spray, Moisturizing Ultra Fine Mist with Aloe, Decongestant - 0.5 fl oz",Vicks Sinex,4.5,390.0,0.0,13.99
+NeilMed Nasa Mist All In One Saline Spray - 6 fl oz,NeilMed,4.0,174.0,0.0,11.99
+"Always Anti-Bunch Xtra Protection Daily Liners Unscented, Long (108 ct) - 108 ea",Always,4.5,947.0,0.0,12.99
+TRESemme Hydrating Shampoo Moisture Rich - 28 fl oz,TRESemme,4.0,1266.0,0.0,7.29
+"Always Ultra Thin Feminine Pads With Wings for Women, Long Super Unscented, Size 2 (42 ct) - 42 ea",Always,4.5,1805.0,0.0,12.99
+Aveeno Skin Relief Repairing Foot Mask For Dry Skin Fragrance Free - 1 pr,Aveeno,4.0,516.0,0.0,3.99
+Vicks Warm Mist Humidifier - 1 ea,Vicks,4.5,826.0,0.0,44.99
+Blink Mild-Moderate Dry Eye Symptom Relief - 0.5 fl oz,Blink,4.5,192.0,0.0,14.99
+Q-tips Cotton Swabs Original - 625 ea,Q-tips,4.0,2077.0,0.0,6.79
+Always Discreet Adult Incontinence Underwear for Women XL (26 ct) - 26 ea,Always Discreet,4.5,66.0,0.0,23.49
+Walgreens Small Room Humidifier - 1 ea,Walgreens,4.0,349.0,0.0,27.99
+Walgreens Certainty Women's Overnight ComfortLux Underwear Large - 16 ea,Walgreens Certainty,4.0,149.0,0.0,12.99
+"Always Discreet Incontinence Panty Liners for Bladder Leaks, Very Light Long, 2 (44 ct) - 44 ea",Always Discreet,4.5,28.0,0.0,7.99
+Dove Sensitive Skin Body Wash - 20 fl oz,Dove,4.5,6655.0,0.0,7.0
+TRESemme Conditioner Moisture Rich - 28 fl oz,TRESemme,4.5,1240.0,0.0,7.29
+TYLENOL Sinus Severe Non-Drowsy Day Cold & Flu Relief Caplets - 24 ea,TYLENOL,4.5,224.0,0.0,12.49
+Bausch + Lomb Lumify Redness Reliever Eye Drops - 0.25 fl oz,Bausch + Lomb Lumify,4.5,756.0,0.0,29.99
+"Always Radiant Teen Pads, Regular, With Wings Scented, Size 1 (28 ct) - 28 ea",Always,4.5,1471.0,0.0,11.99
+Oral-B Advanced Whitening Charcoal Toothbrush Medium Black - 1 ea,Oral-B,4.5,459.0,0.0,4.0
+Omron 10 Series Wireless Upper Arm Blood Pressure Monitor (BP7450) - 1 ea,Omron,4.0,882.0,0.0,89.99
+"ACT Anticavity Fluoride Mouthwash, Triple Action Mint (Packaging May Vary) - 18 fl oz",ACT,4.5,348.0,0.0,5.99
+Walgreens Vaporizing Steam Liquid - 8 fl oz,Walgreens,4.0,148.0,0.0,9.99
+Walgreens Replacement Humidifier Filter - 1 ea,Walgreens,4.5,265.0,0.0,10.99
+Fisherman's Friend Extra Strong Menthol Cough Suppressant Lozenges Original - 38 ea,Fisherman's Friend,4.5,160.0,0.0,4.99
+"Always Infinity Pads, Heavy, Without Wings Unscented, Size 2 - 32 ea",Always,4.5,1637.0,0.0,11.99
+Vaseline Petroleum Jelly Original - 1.75 oz,Vaseline,4.5,3142.0,0.0,3.29
+Walgreens Certainty Women's ComfortLux Underwear XX-Large Blush - 12 ea,Walgreens Certainty,4.5,701.0,0.0,12.99
+Walgreens Squeeze Bottle Kit Sinus Wash - 1 set,Walgreens,3.5,82.0,0.0,11.99
+"G-U-M Soft-Picks Advanced, Dental Floss Picks - 60 ea",G-U-M,4.0,137.0,0.0,7.79
+Aquaphor Advance Therapy Healing Ointment Fragrance Free - 14 oz,Aquaphor,4.5,1517.0,0.0,19.99
+Always Discreet Adult Incontinence Underwear for Women L (28 ct) - 28 ea,Always Discreet,4.0,78.0,0.0,23.49
+O'Keeffe's Working Hands Hand Cream - 2.7 oz,O'Keeffe's,4.5,264.0,0.0,7.99
+Mielle Organics Rosemary Mint Growth Oil - 2 fl oz,Mielle Organics,4.5,5811.0,0.0,10.99
+Garnier Fructis Color Shield Anti-Fade Shampoo for Color-Treated Hair - 12.5 fl oz,Garnier Fructis Color Shield,4.0,1182.0,0.0,5.49
+SheaMoisture Bar Soap African Black Soap - 5 oz,SheaMoisture,4.0,392.0,0.0,6.79
+L'Oreal Paris Elvive Volume Filler Thickening Shampoo - 12.6 fl oz,L'Oreal Paris Elvive,4.0,328.0,0.0,5.49
+Dove Beauty Bar Soap Sensitive - 3.75 oz x 6 pack,Dove,4.5,3299.0,0.0,10.0
+Walgreens Daytime Severe Sinus Caplets Cool Blast - 24 ea,Walgreens,4.5,138.0,0.0,8.99
+"Walgreens Maxi Pads, Overnight, Wingless Unscented - 48 ea",Walgreens,4.5,273.0,0.0,4.34
+Nature's Bounty Optimal Solutions Essential Prenatal Gummies Mixed Berry - 50 ea,Nature's Bounty Optimal Solutions,4.0,128.0,0.0,15.99
+Eucerin Eczema Relief Body Cream - 8 oz,Eucerin,4.5,479.0,0.0,15.99
+Boston Simplus Multi-Action Solution for Rigid Gas Permeable Contact Lenses - 3.5 oz,Boston,4.5,139.0,0.0,14.99
+Olay Fresh Outlast Body Wash Orchid & Black Currant - 22 fl oz,Olay Fresh Outlast,4.5,161.0,0.0,7.0
+"Garnier Fructis Grow Strong Conditioner, For Stronger, Healthier, Shinier Hair - 12 fl oz",Garnier Fructis Grow Strong,4.5,1079.0,0.0,5.49
+"Always Maxi Overnight Pads with Wings for Women Unscented, Size 4 (33 ct) - 33 ea",Always,4.5,2447.0,0.0,12.99
+"Walgreens Certainty Certainty Women's Overnight Underwear, Ultimate Absorbency S/ M - 18 ea",Walgreens Certainty,4.0,87.0,0.0,12.99
+CeraVe Face and Body Moisturizing Cream for Normal to Dry Skin with Hyaluronic Acid - 8 fl oz,CeraVe,4.5,15925.0,0.0,14.99
+"Always Feminine Pads for Women with wings No scent, Size 4 Overnight - 26 ea",Always,4.5,1395.0,0.0,11.99
+Dove Refreshing Body Wash Cucumber & Green Tea - 20 fl oz,Dove,4.5,3246.0,0.0,7.0
+CeraVe Moisturizing Face and Body Lotion with Hyaluronic Acid for Normal to Dry Skin Unscented - 12 fl oz,CeraVe,4.5,8808.0,0.0,15.99
+Walgreens Sugar-Free Cough Drops Menthol - 150 ea,Walgreens,4.5,357.0,0.0,6.49
+"Tampax Pearl Tampons, with LeakGuard Braid No scent - 36 ea",Tampax Pearl,4.5,2554.0,0.0,11.99
+Eucerin Advanced Repair Body Lotion - 16.9 fl oz,Eucerin,4.0,643.0,0.0,15.99
+"Gold Bond Healing Foot Cream, With Aloe - 4 oz",Gold Bond,4.5,446.0,0.0,7.49
+"Arm & Hammer Extreme Whitening Control with Baking Soda & Peroxide, Stain Defense Mint - 6 oz",Arm & Hammer,4.0,530.0,0.0,5.79
+"Biotene OralBalance Moisturizing Gel Flavor-Free, Alcohol-Free, for Dry Mouth - 1.5 oz",Biotene,4.0,915.0,0.0,7.49
+"Walgreens Maxi Pads, Long Super, With Flexi-Wings Size 2 (ct. 32) - 32 ea",Walgreens,4.5,248.0,0.0,4.49
+Poise Incontinence Pads 3 (30 Ct) - 30 ea,Poise,4.0,2323.0,0.0,7.49
+Crest Antigingivitis/ Antiplaque Oral Rinse Clean Mint - 16.9 fl oz,Crest,4.5,3933.0,0.0,4.0
+Walgreens Anefrin Nasal Spray - 1 fl oz,Walgreens,3.5,159.0,0.0,10.99
+Dove Beauty Bar Soap Original White - 3.75 oz x 6 pack,Dove,4.5,11569.0,0.0,10.0
+Walgreens Epsom Salt Lavender - 48 oz,Walgreens,4.5,313.0,0.0,4.99
+DenTek Triple Clean Advanced Clean Floss Picks Mouthwash Blast (Packaging May Vary) - 90 ea,DenTek,4.5,721.0,0.0,3.99
+L'Oreal Paris Elvive Total Repair Extreme Renewing Shampoo - 12.6 fl oz,L'Oreal Paris Elvive,4.5,302.0,0.0,5.49
+Olay Total Effects Tone Correcting CC Cream SPF 15 Light to Medium - 1.7 OZ,Olay,4.0,413.0,0.0,27.99
+Walgreens Extra Heavy Overnight Maxi Pads 5 - 20 ea,Walgreens,4.5,529.0,0.0,4.49
+"Always Anti-Bunch Xtra Protection Daily Liners, Extra Long Absorbency Unscented, Extra Long Absorbency (Actual Item May Vary) - 68 ea",Always,4.5,311.0,0.0,9.99
+"Listerine Antiseptic Mouthwash, Bad Breath & Plaque Mint - 33.8 fl oz",Listerine,4.5,3245.0,0.0,9.49
+Advil Sinus Congestion & Pain Coated Tablets 10 - 10 ea,Advil,4.5,2398.0,0.0,8.29
+"Always Feminine Pads for Women, for Nighttime, with Wings Light Clean, Size 4 - 20 ea",Always,4.5,631.0,0.0,11.99
+"Depend Incontinence Shields for Men, Light Absorbency - 58 ea",Depend,4.0,568.0,0.0,18.99
+Clear Eyes Redness Relief Eye Drops (Actual Item May Vary) - 0.5 fl oz,Clear Eyes,4.5,1273.0,0.0,4.99
+L'Oreal Paris Elvive Color Vibrancy Protecting Shampoo - 12.6 fl oz,L'Oreal Paris Elvive,4.0,390.0,0.0,5.49
+"Always Radiant Feminine Pads For Women, Heavy, With Wings Light Clean, Size 2 (26 ct) - 26 ea",Always,4.5,1835.0,0.0,11.99
+Dove Restoring Body Wash Coconut and Cocoa Butter - 20 fl oz,Dove,4.5,1371.0,0.0,7.0
+Garnier Fructis Pure Clean Pure Clean Hydrating Conditioner for All Hair Types - 12 fl oz,Garnier Fructis Pure Clean,4.0,1013.0,0.0,5.49
+"Poise Incontinence Pads & Postpartum Incontinence Pads, 6 Drop Ultimate Absorbency 6 Ultimate Regular - 33 ea",Poise,4.0,2261.0,0.0,18.99
+Garnier Whole Blends Smoothing Shampoo with Coconut Oil & Cocoa Butter Extracts - 12.5 fl oz,Garnier Whole Blends,4.5,7984.0,0.0,5.99
+Dove Gentle Exfoliating Body Wash with Sea Minerals - 20 fl oz,Dove,4.5,979.0,0.0,7.0
+Eucerin Original Healing Cream Fragrance Free - 16 oz,Eucerin,4.0,467.0,0.0,21.99
+"Poise Postpartum Incontinence Pads, Long 4 Drop Moderate Absorbency 4 Moderate Long - 54 ea",Poise,4.0,1433.0,0.0,18.99
+Sensodyne Repair & Protect Extra Fresh Toothpaste For Sensitive Teeth - 3.4 oz,Sensodyne,4.5,3009.0,0.0,7.99
+Super Poligrip Denture Adhesive Cream Additive Free - 2.4 oz,Super Poligrip,4.0,117.0,0.0,5.49
+Sensodyne Extra Whitening Sensitive Teeth Toothpaste - 4 oz x 2 pack,Sensodyne,4.5,2139.0,0.0,14.99
+"Always Infinity Feminine Pads For Women With Wings, Heavy Unscented, Size 2 (16 ct) - 16 ea",Always,4.5,1440.0,0.0,6.99
+Lubriderm Lotion Unspecified - 16 fl oz,Lubriderm,4.5,782.0,0.0,14.49
+Vaseline Hand and Body Lotion Cocoa Radiant - 20.3 fl oz,Vaseline,4.0,1526.0,0.0,9.79
+Aveeno Daily Moisturizing Lotion with Oat for Dry Skin Fragrance Free - 12 fl oz,Aveeno,4.5,3563.0,0.0,11.49
+Arm & Hammer Peroxi-Care Fluoride Anti-Cavity Toothpaste Mint - 6 oz,Arm & Hammer,4.0,393.0,0.0,5.79
+Walgreens Certainty Women's Overnight ComfortLux Underwear X-Large - 14 ea,Walgreens Certainty,4.0,301.0,0.0,12.99
+TheraBreath Dry Mouth Lozenges Mandarin Mint - 100 ea,TheraBreath,4.5,236.0,0.0,11.49
+"Halls Relief Mentho-Lyptus Cough Drops, Economy Pack - 80 ea",Halls,4.5,106.0,0.0,7.99
+"Walgreens Maxi Pads With Flexi-Wings Unscented, Size 5 (ct 36) - 36 ea",Walgreens,4.5,286.0,0.0,7.49
+L'Oreal Paris Elvive Volume Filler Thickening Conditioner - 12.6 fl oz,L'Oreal Paris Elvive,4.0,165.0,0.0,5.49
+Vicks Pediatric Vapor Plug - 1 ea,Vicks,4.0,95.0,0.0,15.99
+Degree Antiperspirant Deodorant Pure Clean - 2.6 oz,Degree,4.5,1051.0,0.0,6.49
+O'Keeffe's Working Hands Hand Cream Unscented - 3 oz,O'Keeffe's Working Hands,4.5,95.0,0.0,8.49
+"Gold Bond Healing Hydrating Cream, With Aloe Aloe - 5.5 oz",Gold Bond,4.0,1331.0,0.0,7.29
+"Walgreens Maxi Pads, Regular, Wingless Size 1 (ct. 48) - 48 ea",Walgreens,4.5,239.0,0.0,4.49
+SheaMoisture Bar Soap Coconut and Hibiscus - 8 oz,SheaMoisture,4.0,509.0,0.0,6.79
+Aveeno Skin Relief Repairing Hand Mask For Dry Skin Fragrance Free - 1 pr,Aveeno,4.0,387.0,0.0,3.99
+Walgreens Petroleum Jelly Unscented - 13 oz,Walgreens,4.0,130.0,0.0,5.99
+Nivea Nourishing Skin Firming Body Lotion - 16.9 fl oz,Nivea,4.5,264.0,0.0,12.99
+BIC Women's Disposable Razors - 10 EA,BIC,4.0,245.0,0.0,2.99
+Walgreens Cough Drops Cherry - 200 ea,Walgreens,4.5,215.0,0.0,6.49
+Yardley of London Nourishing Bath Bar Oatmeal & Almond (Actual Item May Vary) - 4 oz x 4 pack,Yardley of London,4.5,3918.0,0.0,4.99
+Yardley of London Nourishing Bath Bar English Lavender - 4 oz,Yardley of London,4.5,6699.0,0.0,2.29
+Vaseline Soothing Hydration Body Lotion Aloe Soothe - 20.3 fl oz,Vaseline,4.0,910.0,0.0,9.79
+StainAway Plus Powered Professional Strength Denture Cleanser (Packaging May Vary) - 8.1 fl oz,StainAway Plus,4.5,177.0,0.0,6.49
+"Vicks VapoCool Medicated Sore Throat Drops, With Menthol, Over-the-Counter Medicine Winterfrost - 45 ea",Vicks,4.5,139.0,0.0,6.99
+"Poise Daily Liners, Incontinence Panty Liners, Very Light Absorbency, Regular Length 2 (48 ct) - 48 ea",Poise,4.5,4939.0,0.0,7.49
+Dove Style+Care Hairspray Flexible Hold - 7 oz,Dove,4.0,937.0,0.0,7.99
+Neutrogena Ultra Sheer Dry-Touch SPF 55 Sunscreen Lotion - 3 fl oz,Neutrogena,4.0,546.0,0.0,14.99
+BIC Flex 5 Hybrid Men's Disposable Razor - 1 ea,BIC,4.0,346.0,0.0,7.79
+"Colgate Adult Manual Full Head Toothbrush, Medium One Size Multicolor - 1 ea",Colgate,4.5,305.0,0.0,1.29
+"Walgreens Ultra Thin Maxi Pads With Flexi-Wings Unscented, Size 4 (ct 52) - 52 ea",Walgreens,4.5,205.0,0.0,7.49
+Eucerin Advanced Repair Hand Cream Fragrance Free - 2.7 oz,Eucerin,3.5,437.0,0.0,5.99
+"Depend Adult Incontinence Underwear for Women, Disposable L (17 ct), Blush Blush - 17 ea",Depend,4.5,2450.0,0.0,18.99
+Fixodent Complete Original Denture Adhesive Cream Original - 2.4 oz x 2 pack,Fixodent,4.0,431.0,0.0,12.99
+Maybelline Baby Lips Dr Rescue Medicated Lip Balm Coral Crave - 0.15 oz,Maybelline Baby Lips,4.0,292.0,0.0,5.49
+U by Kotex Balance Sized for Teens Ultra Thin Pads with Wings Unscented - 14 ea,U by Kotex,4.5,1890.0,0.0,7.99
+Nivea Skin Firming Hydration Body Lotion - 16.9 fl oz,Nivea,4.5,1573.0,0.0,12.99
+Walgreens Sore Throat Lozenges Cherry - 18 ea,Walgreens,4.0,55.0,0.0,4.79
+Garnier Whole Blends Hydrating Shampoo with Coconut Water & Aloe Vera Extracts - 12.5 fl oz,Garnier Whole Blends,4.5,450.0,0.0,5.99
+Garnier Whole Blends Smoothing Conditioner Coconut Oil & Cocoa Butter Extract - 12.5 fl oz,Garnier Whole Blends,4.5,7582.0,0.0,5.99
+Nexxus Mousse + Volumizing Foam - 10.6 oz,Nexxus,4.0,457.0,0.0,17.99
+Hyland's Naturals Kids Cold & Cough - 4 fl oz,Hyland's Naturals,4.0,122.0,0.0,12.99
+Biotene Fluoride Toothpaste Fresh Mint - 4.3 oz,Biotene,4.0,535.0,0.0,8.49
+Dove Deep Moisture Body Wash with Pump Deep Moisture - 30.6 fl oz,Dove,4.5,7495.0,0.0,12.99
+Degree Antiperspirant Deodorant Dry Spray Shower Clean - 3.8 oz,Degree,4.0,456.0,0.0,7.49
+Aveeno Daily Moisturizing Lotion with Oat for Dry Skin Fragrance Free - 8 oz,Aveeno,4.5,3313.0,0.0,9.99
+"Walgreens Ultra Thin Maxi Pads, Long Super, Wingless Unscented, Size 2 (ct 40) - 40 ea",Walgreens,4.5,271.0,0.0,4.49
+Ricola Herb Throat Drops Sugar Free Lemon Mint - 45 ea,Ricola,4.5,289.0,0.0,7.49
+Degree Antiperspirant Deodorant Sexy Intrigue - 2.6 oz,Degree,4.5,832.0,0.0,6.49
+Aquaphor Lip Repair Stick - 0.17 oz x 2 pack,Aquaphor,4.5,987.0,0.0,10.99
+Colgate Cavity Protection Toothpaste With Fluoride Great Regular Flavor - 6 oz x 2 pack,Colgate,4.5,331.0,0.0,5.29
+Ivory Bar Soap Original - 3.17 oz x 3 pack,Ivory,3.0,973.0,0.0,4.79
+"Depend Adult Incontinence Underwear for Women, Disposable, Maximum Medium Blush - 18 ea",Depend,4.0,2319.0,0.0,18.99
+Nivea Men Maximum Hydration Nourishing Body Lotion - 16.9 fl oz,Nivea Men,4.5,193.0,0.0,10.99
+"Walgreens Maxi Pads With Flexi-Wings Unscented, Size 4 (ct 28) - 28 ea",Walgreens,4.5,434.0,0.0,4.49
+Q-tips Cotton Swabs Original - 375 ea,Q-tips,4.0,1805.0,0.0,4.79
+Dove Body Wash Lavender Oil & Chamomile - 20 fl oz,Dove,4.5,567.0,0.0,7.0
+"Walgreens Ultra Thin Maxi Pads With Flexi-Wings Unscented, Size 4 (ct 28) - 28 ea",Walgreens,4.5,196.0,0.0,4.49
+Garnier Whole Blends Hydrating Conditioner with Coconut Water & Aloe Vera Extract - 12.5 fl oz,Garnier Whole Blends,4.5,437.0,0.0,5.99
+"Depend Adult Incontinence Underwear for Men, Disposable L (17 ct) Grey - 17 ea",Depend,4.0,1511.0,0.0,18.99
+"Walgreens Ultra Thin Maxi Pads With Flexi-Wings Unscented, Size 1 (ct 36) - 36 ea",Walgreens,4.5,197.0,0.0,4.49
+Nature's Bounty Lutein Softgels 40 mg - 30 ea,Nature's Bounty,4.5,66.0,0.0,29.99
+"BIC Men's Disposable Razors, For a Smooth, Ultra-Close Shave - 3 ea",BIC,4.5,224.0,0.0,6.79
+"Garnier Fructis Style Volume Anti-Humidity Hairspray, Extra Strong Hold - 8.25 oz",Garnier Fructis Style,4.0,138.0,0.0,7.99
+"Garnier Fructis Style Curl Construct Creation Mousse with Coconut Water, For Curly Hair - 6.8 oz",Garnier Fructis Style,4.0,648.0,0.0,5.99
+Halls Economy Bag - 80 ea,Halls,4.5,100.0,0.0,7.99
+Olay Anti-Wrinkle Day Face Lotion with Sunscreen SPF 15 - 3.4 fl oz,Olay,4.5,168.0,0.0,17.99
+CeraVe Face and Body Moisturizing Cream for Normal to Dry Skin with Hyaluronic Acid Unscented - 16 oz,CeraVe,4.5,15860.0,0.0,18.99
+Walgreens Beauty Mesh Sponge Assorted (Color May Vary) - 1 ea,Walgreens Beauty,4.0,67.0,0.0,1.99
+Crest Outlast Complete Whitening Toothpaste Long Lasting Mint - 5.4 oz,Crest,4.5,3738.0,0.0,4.0
+CeraVe Healing Ointment to Protect and Soothe Dry Skin - 12 oz,CeraVe,4.5,1385.0,0.0,19.99
+Walgreens Saline Nasal Moisturizing Spray - 1.5 fl oz,Walgreens,4.0,105.0,0.0,4.29
+"Delsym Adult 12 hour Cough Relief Medicine, Cough Suppressing Liquid Grape - 5 Oz",Delsym,4.5,150.0,0.0,17.99
+Flonase Allergy Relief Nasal Spray - 0.38 fl oz,Flonase,4.5,1244.0,0.0,21.99
+"Old Spice Men's Antiperspirant & Deodorant, 24/ 7 Sweat Protection Oasis with Vanilla - 2.26 oz",Old Spice,4.5,990.0,0.0,9.79
+"Always Ultra Thin Overnight Pads Unscented, Size 4, Overnight - 36 ea",Always,4.5,891.0,0.0,12.99
+Oral-B Glide Bacteria Guard Dental Floss Picks Mint - 75 ea,Oral-B Glide,4.5,481.0,0.0,4.0
+Degree Advanced Protection Antiperspirant Deodorant Dry Spray Lavender & Waterlily - 3.8 oz,Degree Advanced Protection,4.5,386.0,0.0,7.49
+Pantene Daily Moisture Renewal 72 Hour Lush Moisture Conditioner No Scent - 10.4 fl oz,Pantene,4.5,365.0,0.0,5.0
+Pantene Daily Moisture Renewal 72 HR Lush Moisture Shampoo No scent - 17.9 fl oz,Pantene,4.5,332.0,0.0,7.0
+Pantene Daily Moisture Renewal 72 HR Lush Moisture Shampoo Fresh - 27.7 oz,Pantene,4.5,330.0,0.0,8.0
+Walgreens True Metrix Self-Monitoring Blood Glucose Test Strips - 60 ea,Walgreens,4.5,311.0,0.0,18.99
+"Purell Advanced Hand Sanitizer, Pump - 8 fl oz",Purell,4.5,288.0,0.0,3.59
+Mucinex InstaSoothe Sore Throat + Soothing Comfort Lozenges Honey & Echinacea - 40 ea,Mucinex InstaSoothe,4.5,261.0,0.0,6.99
+Blistex Medicated Lip Ointment - 0.21 oz x 2 pack,Blistex,4.5,253.0,0.0,6.49
+Walgreens True Metrix Self-Monitoring Blood Glucose Test Strips - 30 ea,Walgreens,4.5,185.0,0.0,9.99
+Halls Cough Drops (Actual Item May Vary) - 80 ea,Halls,4.5,106.0,0.0,7.99
+"Vicks Severe Medicated Sore Throat Drops, Fast-Acting Max Strength Relief - 18 ea",Vicks,4.5,59.0,0.0,3.99
+Black Girl Sunscreen SPF 30 - 3 fl oz,Black Girl Sunscreen,4.5,57.0,0.0,17.99
+Carmex Daily Care Minis Moisturizing Lip Balm Tubes with SPF - 0.18 oz x 5 pack,Carmex,4.5,47.0,0.0,7.49
+"Always Discreet Adult Incontinence Pads for Women, Ultimate Extra Protect Absorbency No scent, Long length - 42 ea",Always Discreet,4.5,16.0,0.0,24.99
+"Depend Adult Incontinence Underwear for Men, Disposable, Maximum S-M (ct 32) Grey - 32 EA",Depend,4.0,1802.0,0.0,24.99
+Garnier Fructis Style Brilliantine Shine Glossing Spray - 3 fl oz,Garnier Fructis Style,4.0,1047.0,0.0,5.99
+"Garnier Fructis Style Curl Shape Defining Spray Gel with Coconut Water, For Curly Hair - 8.5 fl oz",Garnier Fructis Style,4.0,1035.0,0.0,5.99
+Pantene Classic Clean 2-in-1 Shampoo & Conditioner Floral - 12 fl oz,Pantene,4.0,966.0,0.0,5.0
+Pantene Daily Moisture Renewal 72 HR Lush Moisture Conditioner Fresh - 25.1 fl oz,Pantene,4.0,733.0,0.0,8.0
+Suave Antiperspirant & Deodorant Stick Coconut Kiss - 1.2 oz,Suave,4.5,378.0,0.0,2.49
+"Mucinex InstaSoothe Sore Throat + Cough Relief, Sore Throat Lozenges Alpine Herbs & Mint - 40 ea",Mucinex InstaSoothe,4.5,301.0,0.0,6.99
+"Garnier Fructis Style Curl Sculpt Conditioning Cream Gel, For Curly Hair - 5.1 fl oz",Garnier Fructis Style,4.0,297.0,0.0,5.99
+SheaMoisture Conditioner Coconut & Hibiscus - 13 fl oz,SheaMoisture,4.0,229.0,0.0,12.99
+Walgreens Urinary Tract Infection Home Test - 1 ea x 3 pack,Walgreens,4.0,229.0,0.0,10.99
+Walgreens Certainty Adult Incontinence Stretch Briefs with Tabs Large/ X-Large - 28 ea,Walgreens Certainty,4.0,217.0,0.0,18.99
+"Burt's Bees Kids Toothpaste, Fluoride Free Bubblegum - 4.7 oz",Burt's Bees,4.5,138.0,0.0,4.79
+Walgreens Premoistened Lens Wipes - 120 ea,Walgreens,4.0,124.0,0.0,11.99
+DrugConfirm 7 Drugs Home Drug Test - 1 ea,DrugConfirm,4.0,91.0,0.0,29.99
+"Vicks Vapor Pads Family Pack Lavender, Rosemary - 12 ea",Vicks,4.0,60.0,0.0,15.99
+Soap & Glory Heel Genius Moisturizing Foot Cream - 4.2 fl oz,Soap & Glory,4.0,33.0,0.0,10.0
+Vicks VapoCOOL SEVERE Medicated Sore Throat Drops Honey Lemon Chill - 18 ea,Vicks,4.0,25.0,0.0,3.99
+Walgreens 5 Second Flex-Tip Digital Thermometer - 1 ea,Walgreens,3.5,180.0,0.0,16.99
+"Mucinex InstaSoothe Sore Throat Relief Drops, For Soothing Comfort Honey & Echinacea - 20 ea",Mucinex InstaSoothe,3.5,103.0,0.0,4.99
+Nivea Lip Care Strawberry Lip Care - 0.17 oz x 2 pack,Nivea Lip Care,3.5,23.0,0.0,4.99
+ChapStick Classic Lip Balm Tube Original - .15 oz,ChapStick,3.0,170.0,0.0,1.99
+Walgreens Perfection Silk Tampons Multipack Unscented - 36 EA,Walgreens,0.0,0.0,0.0,5.99
+Exergen Comfort Scanner Temporal Thermometer - 1 Each,Exergen,4.0,749.0,0.0,44.99
+WaxRx pH Conditioned Ear Wash System - 1 ea,WaxRx,4.0,322.0,0.0,39.99
+Walgreens Premium True Metrix Self-Monitoring Blood Glucose Meter Black - 1 ea,Walgreens,3.5,584.0,0.0,19.99
+Walgreens Sitz Bath - 1 ea,Walgreens,3.5,243.0,0.0,21.99
+L'Oreal Paris Superior Preference Fade-Defying + Shine Permanent Hair Color Extra Light Natural Blonde LB02 - 1 ea,L'Oreal Paris Superior Preference,3.5,124.0,0.0,12.99
+Walgreens A1C Test Kit - 1 set,Walgreens,3.5,483.0,0.0,49.99
+First Response Early Result Pregnancy Test - 2 ea,First Response,4.0,5602.0,0.0,18.99
+Hyland's Naturals Earache Drops (Actual Item May Vary) - 0.33 fl oz,Hyland's Naturals,4.0,170.0,0.0,11.49
+Vicks Personal Steam Inhaler - 1 ea,Vicks,4.0,682.0,0.0,59.99
+CONTOUR NEXT Blood Glucose Strips Value Pack - 70 ea,CONTOUR NEXT,4.0,578.0,0.0,36.99
+Braun Thermoscan Ear Thermometer - 1 ea,Braun Thermoscan,4.5,468.0,0.0,40.99
+"Lamisil Lamisil Athlete's Foot Antifungal Cream, 1% Terbinafine Hydrochloride, 1.0 oz - 1 oz",Lamisil,4.5,255.0,0.0,21.99
+Walgreens Antibacterial Plus Urinary - 24 ea,Walgreens,4.0,155.0,0.0,13.49
+"Debrox Earwax Removal Kit, Ear Drops and Bulb Ear Syringe - 0.5 fl oz",Debrox,4.0,313.0,0.0,10.99
+Rogaine Men's Extra Strength 5% Minoxidil Solution Unscented - 2 fl oz x 3 pack,Rogaine,3.5,352.0,0.0,74.99
+"AZO Yeast Plus Dual Relief, Homeopathic, Tablets - 60 ea",AZO,3.5,245.0,0.0,11.49
+Walgreens Auto Arm Blood Pressure Monitor - 1 ea,Walgreens,3.5,582.0,0.0,42.99
+Walgreens Clotrimazole Vaginal Cream - 1.5 oz,Walgreens,4.0,95.0,0.0,15.99
+Systane Ultra Lubricant Eye Drops - 0.33 fl oz,Systane Ultra,4.5,296.0,0.0,14.99
+Walgreens True Focus Self-Monitoring Blood Glucose Test Strips - 50 ea,Walgreens,4.0,159.0,0.0,17.99
+SheaMoisture Curl Enhancing Smoothie Coconut & Hibiscus - 3.2 oz,SheaMoisture,3.5,1775.0,0.0,2.99
+Braun Thermoscan Lens Filters (Actual Item May Vary) - 40 ea,Braun Thermoscan,4.5,130.0,0.0,9.99
+Walgreens Soothing Eye Wash - 4 fl oz,Walgreens,4.0,168.0,0.0,4.79
+Monistat 1-Day Yeast Infection Treatment - 0.16 oz,Monistat,3.5,97.0,0.0,23.99
+Walgreens Disposable Probe Covers - 60 ea,Walgreens,4.5,97.0,0.0,5.99
+Orajel Baby Daytime and Nighttime Non-Medicated Cooling Gels for Teething - 0.18 oz x 2 pack,Orajel,4.0,179.0,0.0,6.79
+PATADAY Eye Itch Relief - 5 mL,PATADAY,4.5,311.0,0.0,19.99
+Releev 1 Day Cold Sore Symptom Treatment - 0.2 oz,Releev,4.0,249.0,0.0,18.99
+SNORERx Snore Rx Stop Snoring Mouthguard - 1 ea,SNORERx,3.0,307.0,0.0,59.99
+Colgate Peroxyl Antiseptic Mouth Sore Rinse Mild Mint - 8.4 fl oz,Colgate,4.5,281.0,0.0,8.99
+Quantum Health Cold Sore Bandage - 12 ea,Quantum Health,3.0,88.0,0.0,9.99
+Monistat 3 Day Ovule Inserts Plus External Cream Combination Pack - 1 set,Monistat,4.0,110.0,0.0,21.99
+"Aveeno Soothing Bath Soak For Eczema, Natural Colloidal Oatmeal Single Use Packets (Actual Item May Vary) - 1.5 oz x 8 pack",Aveeno,4.5,323.0,0.0,7.99
+Nizoral Anti-Dandruff Shampoo - 7 fl oz,Nizoral,4.5,3763.0,0.0,21.99
+Orajel 3X Medicated For All Mouth Sores Gel - 0.42 oz,Orajel,4.0,150.0,0.0,9.79
+Clinere Personal Ear Cleaners for Earwax Removal - 10 ea,Clinere,3.5,96.0,0.0,9.99
+Softsoap Liquid Hand Soap Aquarium Refill - 50 fl oz,Softsoap,4.0,1274.0,0.0,6.99
+Oral-B Pro-Flex Stain Eraser Manual Toothbrush Medium Full Head - 1 ea,Oral-B,4.5,303.0,0.0,5.0
+"Bio-Oil Body Oil for Scars and Stretch Marks, Serum Hydrates - 2 fl oz",Bio-Oil,4.0,112.0,0.0,11.69
+Walgreens Digital 10 Second Flexible Tip Thermometer - 1 ea,Walgreens,3.0,208.0,0.0,15.99
+Walgreens On The Move Spray Bottle for Travel Clear - 1 ea,Walgreens,4.0,92.0,0.0,2.99
+Walgreens Saline Solution - 12 fl oz,Walgreens,4.0,65.0,0.0,3.99
+Flonase Sensimist Allergy Relief Nasal Spray 120 Sprays - 0.31 fl oz,Flonase,4.5,1638.0,0.0,28.99
+Clearblue Digital Pregnancy Test with Smart Countdown - 2 ea,Clearblue,4.5,619.0,0.0,22.99
+Scalpicin Maximum Strength Liquid Scalp Itch Treatment - 1.5 fl oz,Scalpicin,4.5,99.0,0.0,9.79
+Walgreens True Metrix Self-Monitoring Blood Glucose Test Strips - 50 ea,Walgreens,4.0,300.0,0.0,42.99
+L.A. Looks Absolute Styling Sport Hair Gel - 20 oz,L.A. Looks,4.0,83.0,0.0,4.29
+Ayr Saline Nasal Gel - 0.5 oz,Ayr,4.5,251.0,0.0,7.79
+Systane Ultra High Performance Lubricant Eye Drops - 20 ml x 2 pack,Systane Ultra,4.5,457.0,0.0,26.99
+Clearblue Pregnancy Test Combo Pack - 2 ea,Clearblue,4.5,1330.0,0.0,17.99
+Clairol Nice 'n Easy Permanent Hair Color 4 Dark Brown - 1 ea,Clairol Nice 'n Easy,4.5,429.0,0.0,9.29
+CeraVe Face and Body Moisturizing Cream for Normal to Dry Skin Unscented - 12 oz,CeraVe,4.5,16140.0,0.0,16.99
+Clairol Nice 'n Easy Root Touch-Up Permanent Hair Color 5 Medium Brown - 1 ea,Clairol Nice 'n Easy,4.0,499.0,0.0,10.49
+Vaseline Healing Jelly Original Original (Actual Item May Vary) - 13 oz,Vaseline,4.5,2974.0,0.0,7.99
+Walgreens Miconazole 7 Vaginal Antifungal Cream - 1.59 oz,Walgreens,3.5,176.0,0.0,14.99
+Vagisil Anti-Itch Creme - 1 oz,Vagisil,4.0,109.0,0.0,11.49
+Neutrogena Therapeutic Shampoo - 4.5 fl oz,Neutrogena,4.5,787.0,0.0,11.49
+"U by Kotex Balance Thin Wrapped Liners Unscented, Regular (50 ct) - 50 ea",U by Kotex,4.5,3070.0,0.0,6.99
+Walgreens Whitening Wraps with Advanced Form Fitting Technology Mint - 28 ea,Walgreens,3.5,221.0,0.0,24.99
+CloSYS Ultra Sensitive Mouth Rinse Unflavored - 32 fl oz,CloSYS,4.5,263.0,0.0,14.99
+"Crest Classic Vivid At-home Teeth Whitening Kit 10 Treatments, 6 Levels Whiter - 10 ea",Crest,4.0,1726.0,0.0,29.99
+Herbal Essences Hair Repair Shampoo Argan Oil - 13.5 fl oz,Herbal Essences,4.5,3815.0,0.0,11.99
+Gold Bond Cocoa Butter Glow Daily Hydrating Lotion Light Brown - 14 oz,Gold Bond,4.5,645.0,0.0,11.99
+Walgreens Motion Sickness Relief Chewable Tablets Raspberry - 16 ea,Walgreens,4.0,85.0,0.0,8.49
+Walgreens Deluxe Arm Blood Pressure Monitor - 1 ea,Walgreens,3.5,542.0,0.0,54.99
+OCuSOFT Retaine MGD Lubricant Eye Drops Single-Dose Containers - 0.01 fl oz x 30 pack,OCuSOFT,4.5,407.0,0.0,26.99
+Systane Ultra Lubricant Eye Drops High Performance - 0.28 oz x 2 pack,Systane Ultra,4.5,198.0,0.0,13.99
+Benzedrex Inhaler Nasal Decongestant - 1 ea,Benzedrex Inhaler,4.5,100.0,0.0,8.99
+Orajel 4X Medicated For Toothache & Gum Gel - 0.25 oz,Orajel,3.5,201.0,0.0,11.49
+Oral-B Advanced Sensitive Toothbrushes Extra soft - 2 ea,Oral-B,4.0,187.0,0.0,6.0
+Walgreens 24 Hour Budesonide Nasal Spray - 0.29 fl oz,Walgreens,4.0,214.0,0.0,23.99
+Omron 3 Series Upper Arm Blood Pressure Monitor (BP7100) - 1 ea,Omron,4.0,482.0,0.0,59.99
+Walgreens Ear Wax Removal Drops - 0.5 fl oz,Walgreens,4.5,84.0,0.0,6.49
+Refresh Tears Lubricant Eye Drops (Actual Item May Vary) - 0.5 fl oz x 2 pack,Refresh,4.5,260.0,0.0,17.99
+"Oral-B Glide Pro-Health Comfort Plus Dental Floss, Extra Soft Mint - 43.7 yd x 2 pack",Oral-B Glide,4.5,240.0,0.0,9.0
+Cepacol Extra Strength Medicated Sore Throat Lozenges Cherry - 16 ea,Cepacol,4.5,270.0,0.0,5.99
+Oral-B Pro 1000 CrossAction Electric Toothbrush White - 1 set,Oral-B,4.5,1261.0,0.0,66.99
+Quantum Health Lysine+ Cold Sore Ointment - 0.25 oz,Quantum Health,4.0,156.0,0.0,6.99
+"Walgreens Docosanol Cream, 10% - 0.07 oz",Walgreens,4.0,209.0,0.0,17.99
+TRESemme Extra Hold Hairspray Extra Hold - 11 oz,TRESemme,4.5,900.0,0.0,7.99
+Walgreens Saline Solution - 12 fl oz x 2 pack,Walgreens,4.5,79.0,0.0,6.79
+Walgreens Motion Sickness Relief Tablets - 16 ea,Walgreens,4.0,94.0,0.0,8.49
+Refresh Lubricant Eye Drops Preservative-Free Tears - 0.01 oz x 70 pack,Refresh,4.5,228.0,0.0,31.99
+Rogaine Women's 5% Minoxidil Foam For Hair Regrowth Unscented - 2.11 oz x 2 pack,Rogaine,4.0,1499.0,0.0,74.99
+Walgreens Certainty Women's ComfortLux Underwear Large Blush - 40 ea,Walgreens Certainty,3.5,79.0,0.0,22.99
+Walgreens Cranberry 250 mg Caplets - 50 ea,Walgreens,4.5,92.0,0.0,9.99
+NeilMed Sinugator Cordless Pulsating Nasal Wash with 30 Premixed Packets - 1 set,NeilMed,3.5,251.0,0.0,26.99
+"Oral-B Glide Pro-Health Original, Smooth, Strong, Shred Resistant (Packaging May Vary) - 54.6 yd x 2 pack",Oral-B Glide,4.5,759.0,0.0,7.0
+Nature Made Prenatal Multi + DHA Softgels - 90 ea,Nature Made,4.0,74.0,0.0,39.99
+Refresh Soothing Lubricant Eye Gel (Actual Item May Vary) - 0.5 fl oz,Refresh,4.5,210.0,0.0,12.49
+Vitafusion Prenatal Gummy Vitamins Raspberry Lemonade - 90 ea,Vitafusion,4.5,375.0,0.0,17.99
+Udderly Smooth Body Cream Lightly Scented - 12 oz,Udderly Smooth,4.5,827.0,0.0,5.99
+Arm & Hammer Deodorant With Natural Deodorizers Fresh - 2.5 oz,Arm & Hammer,4.0,403.0,0.0,4.99
+Vanicream Moisturizing Lotion - 16 fl oz,Vanicream,4.5,214.0,0.0,16.99
+TheraBreath Fresh Breath Oral Rinse Mild Flavor (Packaging May Vary) - 16 fl oz,TheraBreath,4.5,613.0,0.0,9.79
+"Carmex Daily Care Moisturizing Lip Balm with SPF Fresh Cherry, Strawberry, Wintergreen - 0.35 oz x 3 pack",Carmex,4.5,58.0,0.0,5.29
+Suave Kids 3in1 Shampoo Conditioner Body Wash Watermelon Wonder - 18 fl oz,Suave Kids,4.5,346.0,0.0,4.99
+Dentemp Repair-It Advanced Formula Denture Repair Kit - 1 set,Dentemp,3.5,202.0,0.0,7.79
+Ocuvite Eye Health Adult 50+ - 90 ea,Ocuvite,4.5,221.0,0.0,29.99
+SheaMoisture Multi-Action Leave-In - 8 oz,SheaMoisture,4.5,265.0,0.0,13.99
+Refresh Relieva Lubricant Eye Drops - .33 fl oz,Refresh Relieva,4.5,2119.0,0.0,19.99
+Old Spice Red Zone Body Wash for Men Swagger (Packaging May Vary) - 21 fl oz,Old Spice Red Zone,4.0,298.0,0.0,7.0
+Walgreens Oral Pain Relief Paste Maximum Strength Assorted - 0.42 oz,Walgreens,4.0,66.0,0.0,7.99
+"Crest Pro-Health Advanced Advanced Multi-Protection Mouthwash/ Mouth Rinse, Alcohol Free Fresh Mint - 33.8 fl oz",Crest Pro-Health Advanced,4.5,4637.0,0.0,7.5
+Got2b Glued Blasting Freeze Spray - 12 oz,Got2b,4.0,108.0,0.0,8.99
+"Gold Bond Comfort Body Powder, Talc-Free Fresh Clean - 10 oz",Gold Bond,4.5,304.0,0.0,6.79
+Ayr Saline Nasal Mist (Actual Item May Vary) - 1.69 fl oz,Ayr,4.5,160.0,0.0,6.29
+"U by Kotex Wrapped Panty Liners Unscented, Regular Length - 40 ea",U by Kotex,4.5,2473.0,0.0,6.99
+Refresh Extended Therapy Gel Drops Lubricant Eye Gel - 0.33 fl oz,Refresh,4.5,179.0,0.0,19.99
+Walgreens Vaporizer - 1 ea,Walgreens,3.0,280.0,0.0,19.99
+Refresh Vials Lubricant Eye Drops Preservative-Free - 0.1 fl oz x 60 pack,Refresh,4.5,146.0,0.0,31.99
+Systane Overnight Therapy Lubricant Eye Gel - 0.35 oz,Systane,4.0,229.0,0.0,18.99
+TRESemme Protecting Heat Spray Keratin Smooth Thermal Creations - 8 fl oz,TRESemme,4.5,2317.0,0.0,7.99
+Garnier Fructis Curl Nourish Curl Nourish Sulfate-Free Shampoo for All Curl Types - 12.5 fl oz,Garnier Fructis Curl Nourish,4.0,887.0,0.0,5.49
+"Always Thin No Feel Protection Daily Liners Unscented, Regular Absorbency - 162 ea",Always,4.5,666.0,0.0,11.99
+"Flonase Allergy Relief Nasal Spray Scent Free, 60 Sprays - 60 ea",Flonase,4.5,1595.0,0.0,21.99
+Shine 'n Jam Conditioning Extra Hold Gel - 4 oz,Shine 'n Jam,4.5,121.0,0.0,3.79
+Refresh Contacts Contact Lens Comfort Moisture Drops for Dry Eyes (Actual Item May Vary) - 0.4 fl oz,Refresh,4.5,87.0,0.0,10.99
+SheaMoisture Curl Mousse Coconut and Hibiscus - 7.5 oz,SheaMoisture,4.0,307.0,0.0,13.99
+Accu-Chek Guide Test Strips - 25 ea,Accu-Chek,4.0,145.0,0.0,12.99
+"Always Maxi Overnight Pads With Wings For Women, Extra Heavy Overnight Absorbency Unscented, Size 5 (20 ct) - 20 ea",Always,4.5,2844.0,0.0,8.99
+Vicks Rapid Read 2 Second Digital Thermometer - 1 ea,Vicks,3.5,433.0,0.0,19.99
+Walgreens Liquid Hand Soap Refill Clear Clear - 56 fl oz,Walgreens,4.0,125.0,0.0,5.99
+Walgreens Foaming Rinse-Free Shampoo & Body Wash - 7.1 fl oz,Walgreens,4.5,162.0,0.0,5.61
+Walgreens Saline Packets - 0.1 oz x 100 pack,Walgreens,4.5,281.0,0.0,12.49
+"Olay Ribbons Moisture Ribbons Plus Body Wash Shea Butter + Peony Blossom, 18 oz - 18 fl oz",Olay Ribbons,4.5,215.0,0.0,7.0
+Oral-B 3D White Battery Power Electric Toothbrush Varied - 1 ea,Oral-B,4.0,569.0,0.0,8.0
+Coast Bar Soap Classic - 4 OZ x 8 pack,Coast,4.5,236.0,0.0,5.79
+OCuSOFT Lid Scrub Plus Eyelid Cleanser Pre-Moistened Pads - 30 ea,OCuSOFT,4.5,277.0,0.0,24.99
+Gillette Fusion5 Razor Refills for Men No scent - 8 ea,Gillette Fusion5,4.5,3887.0,0.0,33.99
+"G-U-M Proxabrush Go-Betweens - Tight, Interdental Brushes - 10 ea",G-U-M,4.5,151.0,0.0,6.29
+Listerine Anticavity Fluoride Mouthwash Fresh Mint - 1 L,Listerine,4.0,991.0,0.0,11.99
+Oral-B Mouth Sore Special Care Oral Rinse Soothing Mint - 16 fl oz,Oral-B,4.5,275.0,0.0,9.0
+Tampax Radiant Tampons with LeakGuard Braid No scent - 28 ea,Tampax Radiant,4.5,1481.0,0.0,11.99
+Ocuvite Adult 50+ Lutein & Omega 3 Eye Vitamin & Mineral Supplement Softgels - 50 ea,Ocuvite,4.5,191.0,0.0,17.99
+"Garnier Fructis Triple Nutrition Shampoo, Dry to Very Dry Hair - 12.5 fl oz",Garnier Fructis Triple Nutrition,4.5,756.0,0.0,5.49
+"Herpecin-L Cold Sore Relief, Lip Balm Stick, SPF 30 & Lysine - 0.1 oz",Herpecin-L,4.5,36.0,0.0,7.49
+Aveeno Daily Moisturizing Lotion with Oat for Dry Skin Fragrance-Free - 18 fl oz,Aveeno,4.5,3518.0,0.0,14.99
+Herbal Essences Volumizing Shampoo White Grapefruit & Mosa Mint - 13.5 fl oz,Herbal Essences,4.0,3457.0,0.0,11.99
+TRESemme Hairspray Non Aerosol Extra Hold - 10 fl oz,TRESemme,4.0,604.0,0.0,7.99
+Dr. Teal's Pure Epsom Salt Soaking Solution Lavender - 3 lb,Dr. Teal's,4.5,1401.0,0.0,5.99
+"Crest Glamorous White Mouthwash/ Mouth Rinse, Alcohol Free Artic Mint - 32 fl oz",Crest,4.5,1039.0,0.0,9.0
+Walgreens Petroleum Jelly Unscented - 2.5 oz,Walgreens,4.0,107.0,0.0,4.99
+Dramamine Original Formula Motion Sickness Relief - 12 ea,Dramamine,4.5,393.0,0.0,9.99
+Softsoap Exfoliating Body Wash Scrub Coconut Butter - 20 fl oz,Softsoap,4.5,466.0,0.0,6.99
+Vanicream Sensitive Skin Conditioner - 12 fl oz,Vanicream,4.0,240.0,0.0,12.99
+Biotene Mouthwash For Dry Mouth Relief Fresh Mint - 16 fl oz,Biotene,4.0,827.0,0.0,8.49
+Suave Non Aerosol Hairspray Unscented - 11 fl oz,Suave,4.0,311.0,0.0,4.49
+La Roche-Posay Melt-In Milk Face and Body Sunscreen Lotion SPF 60 - 5 fl oz,La Roche-Posay,4.5,1381.0,0.0,37.99
+"One A Day Prenatal Advanced Multivitamin With Choline, DHA, Folic Acid and Iron - 120 ea",One A Day,4.5,347.0,0.0,41.99
+Blink Moderate-Severe Dry Eye Symptom Relief - 0.34 fl oz,Blink,4.5,248.0,0.0,14.99
+Eucerin Advanced Repair Cream - 16 oz,Eucerin,4.5,335.0,0.0,21.99
+NeilMed NasaMist Extra Strength Saline Spray - 4.2 oz,NeilMed,4.5,122.0,0.0,6.49
+Gillette Venus Sensitive Sensible Sensitive Women's Disposable Razor - 3 ea,Gillette Venus Sensitive Sensible,4.5,370.0,0.0,9.49
+Afrin Original Maximum Strength Nasal Spray - 1 fl oz,Afrin,4.0,208.0,0.0,17.99
+Fixodent Denture Adhesive Powder - 2.7 oz,Fixodent,4.0,163.0,0.0,6.99
+Aussie Paraben Free Conditioner Avocado & Jojoba Oil - 26.2 fl oz,Aussie,4.5,1416.0,0.0,8.99
+Softsoap Moisturizing Body Wash Pomegranate and Mango - 20 oz,Softsoap,4.5,431.0,0.0,6.99
+Walgreens Regular Pantiliners - 64 ea,Walgreens,4.0,352.0,0.0,2.61
+Nexxus Shampoo Keraphix with ProteinFusion - 13.5 Oz,Nexxus,4.5,8660.0,0.0,17.99
+Walgreens Travel Bottle 3.4 oz - 4 ea,Walgreens,4.5,48.0,0.0,5.99
+"CloSYS Sensitive Toothpaste With Fluoride, Sulfate-Free Mint - 7 oz",CloSYS,4.5,154.0,0.0,0.0
+Crest Scope Outlast Mouthwash Fresh Mint - 16.9 fl oz,Crest,4.5,554.0,0.0,4.0
+ReNu Advanced Multi-Purpose Solution - 12 oz x 2 pack,ReNu,4.5,283.0,0.0,16.99
+"Oral-B Advanced Clean Toothbrushes, Color Changing Bristles Soft Different colors - 4 ea",Oral-B,4.0,694.0,0.0,8.0
+Neutrogena Body Clear Wash Salicylic Acid Acne Treatment Pink Grapefruit - 8.5 fl oz,Neutrogena,4.0,528.0,0.0,11.99
+Walgreens Certainty Adult Incontinence Underwear for Women Maximum M Blush - 36 ea,Walgreens Certainty,3.5,119.0,0.0,18.99
+TRESemme Extra Hold Hairspray Extra Hold - 4.2 oz,TRESemme,4.5,1317.0,0.0,6.99
+Walgreens Oral Relief Sore Throat Spray Cherry - 6 fl oz,Walgreens,3.5,105.0,0.0,7.99
+Colgate Optic White Renewal Whitening Toothpaste High Impact White - 3 oz,Colgate Optic White,4.5,9477.0,0.0,10.49
+"Carefree Regular Panty Liners, Unwrapped Unscented, Regular (120 ct) (Actual Item May Vary) - 120 ea",Carefree,4.5,13145.0,0.0,9.49
+"Vicks Sinex Severe Nasal Spray, Original Ultra Fine Mist, Decongestant Medicine - 0.5 fl oz",Vicks Sinex,4.5,331.0,0.0,13.99
+Walgreens Prenatal Multivitamin Softgel (30 days) (Packaging May Vary) - 30 ea,Walgreens,4.0,55.0,0.0,13.99
+"Delsym 12 Hour Cough Suppressant Liquid, Cough Relief Medicine Orange (Actual Item May Vary) - 3 fl oz",Delsym,4.0,214.0,0.0,15.99
+Oral-B Complete Dental Floss Picks Long Lasting Scope - 150 ea,Oral-B Complete,4.5,7494.0,0.0,7.0
+Sexy Hair Big Powder Play - 0.53 OZ,Sexy Hair,4.0,327.0,0.0,21.99
+"Aveeno Baby Eczema Therapy Soothing Bath Treatment, Oatmeal Fragrance-Free, Single Use Packets - 3.75 oz x 5 pack",Aveeno Baby,4.5,290.0,0.0,8.49
+Afrin Severe Congestion Nasal Spray - 0.5 fl oz,Afrin,4.5,324.0,0.0,9.99
+"Carefree Acti-Fresh Body Shape Panty Liners Wrapped Unscented, Extra Long - 36 ea",Carefree,3.5,139.0,0.0,5.49
+Jergens Ultra Healing Extra Dry Skin Moisturizer Unscented - 21 fl oz,Jergens,4.0,461.0,0.0,8.99
+Walgreens Certainty Women's ComfortLux Underwear Maximum Absorbency L (32 ct) Blush - 32 ea,Walgreens Certainty,4.0,163.0,0.0,18.99
+Aveeno Daily Moisturizing Oat Body Wash For Dry Skin Unspecified - 18 fl oz,Aveeno,4.5,16269.0,0.0,9.59
+PARODONTAX Complete Protection Gingivitis Toothpaste For Bleeding Gums Pure Fresh Mint - 3.4 oz,PARODONTAX,4.5,241.0,0.0,8.49
+CloSYS Fresh Breath Sensitive Mouth Rinse Gentle Mint - 32 fl oz,CloSYS,4.5,204.0,0.0,14.99
+Dove Glowing Body Wash Mango & Almond Butters - 20 fl oz,Dove,4.0,695.0,0.0,7.0
+Nivea Skin Firming & Toning Gel Cream for Normal Skin - 6.7 oz,Nivea,4.5,1971.0,0.0,18.99
+Garnier Fructis Sleek & Shine Anti-Frizz Serum - 5.1 fl oz,Garnier Fructis Sleek & Shine,4.0,1105.0,0.0,7.99
+Sudafed PE Non-Drowsy Head Congestion + Pain Relief Caplets - 20 ea,Sudafed,4.5,168.0,0.0,10.99
+Abreva Docosanol 10% Cold Sore Cream Tube - 0.07 oz,Abreva,3.5,1212.0,0.0,22.99
+TheraBreath Healthy Gums Oral Rinse Clean Mint - 16 oz,TheraBreath,4.5,262.0,0.0,9.79
+"Summer's Eve Douche, Extra Cleansing Vinegar & Water - 4.5 fl oz x 2 pack",Summer's Eve,4.5,159.0,0.0,3.99
+Neutrogena Ultra Sheer Dry-Touch SPF 45 Sunscreen Lotion - 3 fl oz x 2 pack,Neutrogena,4.0,611.0,0.0,19.99
+"Walgreens Certainty Adult Incontinence Underwear for Men, Maximum Large Grey - 28 ea",Walgreens Certainty,4.0,89.0,0.0,18.99
+Crest Advanced Deep Clean Toothpaste Mint - 10.2 oz,Crest,3.5,326.0,0.0,9.0
+SheaMoisture Soothing Body Wash - 13 fl oz,SheaMoisture,4.5,256.0,0.0,10.99
+Garnier Fructis Daily Care 2-in-1 Shampoo and Conditioner - 12.5 oz,Garnier Fructis Daily Care,4.0,575.0,0.0,5.49
+Tom's of Maine Antiplaque & Whitening Toothpaste Peppermint - 5.5 oz,Tom's of Maine,4.5,278.0,0.0,7.99
+Gillette Foamy Foamy Regular Shaving Cream - 11 oz,Gillette Foamy,4.5,362.0,0.0,3.49
+"Walgreens Certainty Incontinence Pads, 4 Drop Moderate Absorbency Regular Length - 66 ea",Walgreens Certainty,4.0,268.0,0.0,12.99
+"Neutrogena Moisturizing Body Oil, Light Sesame Formula Light Sesame Formula - 8.5 fl oz",Neutrogena,4.5,2823.0,0.0,14.99
+"Garnier Fructis Triple Nutrition Conditioner, Dry to Very Dry Hair - 12 fl oz",Garnier Fructis Triple Nutrition,4.5,663.0,0.0,5.49
+Efferdent Anti-Bacterial Denture Cleanser - 102 ea,Efferdent,4.5,281.0,0.0,7.79
+Listerine Antiseptic Mouthwash Mint - 500 ml,Listerine,4.5,3065.0,0.0,7.49
+Aquaphor Healing Ointment - 7 oz,Aquaphor,4.5,793.0,0.0,14.99
+Gillette Series Conditioning After Shave Gel - 2.5 fl oz,Gillette Series,4.5,228.0,0.0,2.99
+"Gold Bond Medicated Extra Strength Body Lotion, With Menthol - 14 oz",Gold Bond,4.5,208.0,0.0,11.99
+Walgreens Maximum Strength Severe Sinus Congestion Caplets - 20 ea,Walgreens,4.5,57.0,0.0,14.49
+Pharma-C-Wipes Water Activated Bathing Cloths - 10 ea,Pharma-C-Wipes,4.0,100.0,0.0,2.99
+Herbal Essences Hair Repair Conditioner Argan Oil - 13.5 fl oz,Herbal Essences,4.5,2430.0,0.0,11.99
+Walgreens Premium Microfiber Lens Wipes - 120 ea,Walgreens,4.0,209.0,0.0,12.49
+Dr. Teal's Foaming Bath Lavender - 34 fl oz,Dr. Teal's,4.5,652.0,0.0,5.99
+Aveeno Eczema Therapy Daily Moisturizing Cream Fragrance-Free - 12 fl oz,Aveeno,4.5,1285.0,0.0,23.99
+Boston Advance Cleaner - 1 oz,Boston,4.5,77.0,0.0,14.99
+Walgreens Lubricant Eye Drops - 0.5 fl oz,Walgreens,3.5,71.0,0.0,9.99
+Gillette Clear Gel Antiperspirant and Deodorant for Men Cool Wave - 3.8 oz,Gillette,4.0,5358.0,0.0,8.79
+Yardley London Nourishing Bath Bar Creamy Coconut - 4 oz,Yardley London,4.5,1000.0,0.0,2.29
+Walgreens Maximum Strength Urinary Pain Relief Tablets - 12 ea,Walgreens,4.0,89.0,0.0,7.99
+Summer's Eve Deodorant Spray Ultra - 2 oz,Summer's Eve,4.5,267.0,0.0,4.29
+"Garnier Fructis Style Anti-Humidity Smoothing Milk, Flexible Hold, Argan Oil - 5.1 fl oz",Garnier Fructis Style,4.5,182.0,0.0,5.99
+Opti-Free PureMoist Disinfecting Solution - 10 fl oz,Opti-Free,4.5,52.0,0.0,14.99
+Opcon-A Itching & Redness Reliever Eye Drops - 0.5 fl oz,Opcon-A,4.5,180.0,0.0,8.79
+"Walgreens Long Super Ultra Thin Pads Unscented, Size 2 (42 ct) - 42 ea",Walgreens,4.5,152.0,0.0,5.99
+Jergens Dry Skin Moisturizer Body Lotion Cherry Almond - 21 fl oz,Jergens,4.0,595.0,0.0,8.99
+"Poise Postpartum Incontinence Pads Ultimate Long, 6 (27 ct) - 27 ea",Poise,4.0,2272.0,0.0,18.99
+Eucerin Intensive Repair Lotion Fragrance Free - 16.9 fl oz,Eucerin,4.0,642.0,0.0,14.99
+"Always Pure Cotton Feminine Pads For Women, With Wings, Heavy Unscented, Size 2 (24 ct) - 24 ea",Always,4.5,388.0,0.0,12.99
+Banana Boat Sport Ultra Sunscreen Lotion SPF 100 - 4 fl oz,Banana Boat,4.5,49.0,0.0,14.99
+Aussie Paraben-Free Miracle Moist Shampoo For Dry Hair Avocado & Jojoba Oil - 26.2 fl oz,Aussie,4.5,2109.0,0.0,8.99
+TRESemme 24 Hour Volume Shampoo 24 Hour Body - 28 fl oz,TRESemme,4.0,293.0,0.0,7.29
+Dove Dry Spray Antiperspirant Deodorant Cool Essentials - 3.8 oz,Dove,4.5,60911.0,0.0,9.0
+"Walgreens Certainty Underpads for Incontinence, Day & Night Protection, Maximum Absorbency Extra Large - 10 ea",Walgreens Certainty,4.0,79.0,0.0,12.99
+Sensodyne Sensitive Toothpaste Fresh Mint (Packaging May Vary) - 4 oz,Sensodyne,4.0,3915.0,0.0,7.99
+CeraVe Itch Relief Moisturizing Lotion with Pramoxine Hydrochloride for Dry Skin - 16 oz,CeraVe,4.5,467.0,0.0,28.99
+"Crest Scope Outlast Mouthwash/ Mouth Rinse, Fresh Mint - 33.8 fl oz",Crest,4.5,430.0,0.0,5.5
+NeilMed NasoGEL Drip Free Gel Spray - 1 oz,NeilMed,4.5,166.0,0.0,9.99
+TRESemme Silky & Smooth Anti-Frizz Shampoo - 28 fl oz,TRESemme,4.0,1018.0,0.0,7.29
+Cetaphil Baby Wash & Shampoo - 7.8 fl oz,Cetaphil Baby,4.5,287.0,0.0,7.99
+AXE Body Spray Deodorant Sage & Cedarwood - 4 oz,AXE,4.5,684.0,0.0,7.29
+Zicam Intense Sinus Relief No-Drip Relief Nasal Spray - 0.5 oz,Zicam,4.5,326.0,0.0,14.99
+Systane Hydration PF - 30 ea,Systane,4.5,143.0,0.0,22.99
+Nexxus Conditioner Keraphix with ProteinFusion 13.5 oz - 13.5 fl oz,Nexxus,4.5,8785.0,0.0,19.99
+TRESemme Vibrance & Shine Shampoo - 28 fl oz,TRESemme,4.0,229.0,0.0,7.29
+Pantene Pro-V Moisturizing Leave In Conditioner Mist - 8.5 fl oz,Pantene Pro-V,4.5,142.0,0.0,6.0
+"Cake The Curl Whip, Whipped Curl Mousse - 8.4 oz",Cake,4.0,188.0,0.0,10.99
+Walgreens Nasal Saline Mist - 4.5 oz,Walgreens,4.0,100.0,0.0,8.99
+Firefly Kids! Light Up Timer Toothbrush - 2 ea,Firefly Kids!,4.5,82.0,0.0,3.49
+Afrin No Drip Severe Congestion Nasal Spray Relief - 0.5 fl oz,Afrin,4.5,429.0,0.0,12.99
+"Walgreens Certainty Incontinence Pads, 5 Drop Maximum Absorbency Long Length - 39 ea",Walgreens Certainty,4.0,277.0,0.0,12.99
+"Degree Men Antiperspirant Deodorant Dry Spray Fresh, 3.8 oz - 3.8 oz",Degree Men,4.5,343.0,0.0,7.49
+Walgreens Nasal Strips Extra Strength One Size Clear - 26 ea,Walgreens,3.5,59.0,0.0,9.99
+Boston Advance Contact Lens Conditioning Solution - 3.5 oz,Boston,4.5,82.0,0.0,14.99
+Garnier Fructis Curl Nourish Sulfate-Free Conditioner for All Curl Types - 12 fl oz,Garnier Fructis Curl Nourish,4.0,810.0,0.0,5.49
+Secret Clinical Strength Soft Solid Antiperspirant and Deodorant for Women Light & Fresh - 1.6 oz,Secret,4.5,2196.0,0.0,10.99
+Dove Rejuvenating Body Wash Pomegranate & Hibiscus - 20 fl oz,Dove,4.5,940.0,0.0,7.0
+"Always Pure Cotton Feminine Pads For Women, With Wings, Regular Unscented, Size 1 (28 ct) - 28 ea",Always,4.5,551.0,0.0,12.99
+Aveeno Skin Relief Moisturizing Lotion for Very Dry Skin Fragrance-Free - 18 fl oz,Aveeno,4.5,525.0,0.0,14.99
+Diurex Max Caffeine-Free Water Pills - 48 ea,Diurex,4.0,444.0,0.0,9.49
+Walgreens Allergy Nasal Spray 120 Sprays - .57 fl oz,Walgreens,4.5,189.0,0.0,16.99
+Vaseline Petroleum Jelly Original Original - 7.5 oz,Vaseline,4.5,2907.0,0.0,5.99
+"Carmex Medicated Lip Balm Tubes, Lip Moisturizer for Chapped Lips - 0.35 oz x 3 pack",Carmex,4.5,66.0,0.0,5.29
+Sensodyne Repair And Protect Teeth Whitening Sensitive Toothpaste - 3.4 oz,Sensodyne,4.0,6893.0,0.0,7.99
+Sensodyne Complete Protection Toothpaste For Sensitive Teeth - 3.4 oz,Sensodyne,4.0,1626.0,0.0,7.99
+Old Spice Classic Men's Deodorant Stick Original - 3.25 oz,Old Spice,4.0,256.0,0.0,5.79
+Walgreens Waxed Dental Tape Mint - 50 yd,Walgreens,4.0,181.0,0.0,1.49
+Secret Outlast Invisible Solid Antiperspirant Deodorant Completely Clean - 2.6 oz,Secret,4.5,7138.0,0.0,8.99
+"Pamprin Maximum Strength Multi-Symptom, Menstrual Period Symptoms Relief - 40 ea",Pamprin Maximum Strength,4.5,57.0,0.0,7.99
+"Ivory Bar Soap Original, 10 bars - 4 oz each - 4 oz x 10 pack",Ivory,4.5,98.0,0.0,9.99
+DenTek Fresh Clean Floss Picks Mouthwash Blast Mint - 75 ea,DenTek,4.5,568.0,0.0,3.99
+Gillette Foamy Foamy Sensitive Skin Shave Foam - 11 oz,Gillette Foamy,4.5,265.0,0.0,3.49
+Walgreens Super Maxi Wingless Pads Super - 24 ea,Walgreens,4.5,166.0,0.0,2.61
+Gillette Venus Women's Razor Handle + Blade Refills White Tea Pink - 1 set,Gillette Venus,4.0,1086.0,0.0,11.49
+Walgreens Certainty Women's ComfortLux Underwear X-Large Blush - 28 ea,Walgreens Certainty,4.0,178.0,0.0,18.99
+Colgate Toothpaste Clean Mint (Packaging May Vary) - 4.8 oz,Colgate,3.5,932.0,0.0,5.0
+Yardley of London Nourishing Bath Bar Oatmeal & Almond - 4 oz,Yardley of London,4.5,3918.0,0.0,2.29
+TRESemme Extra Hold Alcohol-Free Gel Extra Hold - 9 oz,TRESemme,4.0,787.0,0.0,7.99
+Aveeno Daily Moisturizing Lotion with Oat for Dry Skin - 2.5 oz,Aveeno,4.5,3433.0,0.0,4.29
+ACT Kids Anticavity Fluoride Mouthwash Bubble Gum Blowout - 16.9 fl oz,ACT,4.5,539.0,0.0,4.79
+U by Kotex Clean & Secure Overnight Maxi Pads with Wings Unscented - 14 ea,U by Kotex,4.0,403.0,0.0,6.79
+St. Ives Blackhead Clearing Face Scrub Green Tea & Bamboo - 6 oz,St. Ives,4.0,668.0,0.0,5.79
+La Roche-Posay Anthelios Melt-in Milk Body and Face Sunscreen Lotion SPF 100 - 3 fl oz,La Roche-Posay,4.5,588.0,0.0,26.99
+"G-U-M Soft-Picks Original, Dental Floss Picks - 100 ea",G-U-M,4.5,108.0,0.0,7.49
+Olay Ribbons Moisture Ribbons Plus Body Wash Shea + Lavender Oil - 18 fl oz,Olay Ribbons,4.5,192.0,0.0,7.0
+Biotrue Travel Pack - 2 oz,Biotrue,4.5,41.0,0.0,3.99
+"Gold Bond Therapeutic Foot Cream, With Jojoba & Peppermint Oil - 4 oz",Gold Bond,4.5,297.0,0.0,9.49
+Walgreens Sugar-Free Cough Drops Honey Lemon - 25 ea,Walgreens,4.5,181.0,0.0,1.99
+Lubriderm Full Body Lotion Fragrance-Free - 16 fl oz,Lubriderm,4.5,1094.0,0.0,11.99
+TRESemme Anti-Frizz Conditioner Smooth and Silky - 28 fl oz,TRESemme,4.5,274.0,0.0,7.29
+Vaseline Advanced Repair Body Lotion Unscented - 20.3 fl oz,Vaseline,4.5,104.0,0.0,9.79
+"Olay Complete Cream, All Day Moisturizer with SPF 15 for Normal Skin - 2 oz",Olay Complete,4.5,380.0,0.0,11.49
+ACT Restoring Anticavity Fluoride Mouthwash Cool Mint - 33.8 fl oz,ACT,4.5,194.0,0.0,8.49
+Nexxus Sulfate-Free Shampoo with ProteinFusion - 13.5 fl oz,Nexxus,4.0,2277.0,0.0,17.99
+Listerine Pocketpaks Fresh Breath Strips Mint - 24 ea x 3 pack,Listerine,4.5,1077.0,0.0,6.29
+Nexxus Clarifying Shampoo With ProteinFusion - 13.5 fl oz,Nexxus,4.5,388.0,0.0,17.99
+Suave Antiperspirant Deodorant Fresh - 2.6 oz,Suave,4.0,550.0,0.0,3.99
+"Aveeno Skin Relief Body Wash, Sensitive Skin Fragrance-Free - 18 fl oz",Aveeno,3.5,507.0,0.0,9.59
+L. Cotton Tampons Regular Absorbency No scent - 30 ea,L.,4.5,3668.0,0.0,14.49
+Dove Men+Care Body and Face Wash Hydrating Clean Comfort - 18 fl oz,Dove Men+Care,4.5,1161.0,0.0,7.0
+Oral-B Advanced Whitening Manual Toothbrush Soft - 1 ea,Oral-B,4.5,577.0,0.0,3.5
+Afrin No Drip Extra Moisturizing Nasal Pump Mist - 0.5 fl oz,Afrin,4.0,342.0,0.0,12.99
+Eucerin Skin Calming Daily Moisturizing Creme - 14 oz,Eucerin,3.5,228.0,0.0,14.99
+Vaseline Petroleum Jelly Cocoa Butter Cocoa Butter - 7.5 oz,Vaseline,4.5,573.0,0.0,5.99
+"Always Discreet Incontinence and Postpartum Underwear for Women, Maximum Protection L, Rosy Rosy - 18 ea",Always Discreet,0.0,0.0,0.0,23.49
+Lubriderm Daily Moisture Lotion Fragrance-Free - 24 fl oz,Lubriderm Daily Moisture,4.5,697.0,0.0,15.99
+Biotene Moisturizing Oral Rinse Mouthwash Fresh Mint - 33.8 fl oz,Biotene,4.0,991.0,0.0,12.49
+Vicks Vapocool Sore Throat Spray Winterfrost - 6 fl oz,Vicks,4.0,133.0,0.0,11.99
+Garnier Fructis Color Shield Anti-Fade Conditioner for Color-Treated Hair - 12 fl oz,Garnier Fructis Color Shield,3.5,1077.0,0.0,5.49
+"Carefree Thong Panty Liners, Unwrapped Unscented, Thong (49 ct) (Actual Item May Vary) - 49 ea",Carefree,4.0,120.0,0.0,5.49
+U by Kotex Balance Daily Wrapped Panty Liners Long - 90 ea,U by Kotex,4.5,312.0,0.0,9.99
+Dove Men+Care Antiperspirant Deodorant Clean Comfort - 3.8 oz,Dove Men+Care,4.0,1911.0,0.0,9.0
+Dove Beauty Bar Soap Shea Butter - 3.75 oz x 6 pack,Dove,4.5,2420.0,0.0,10.0
+Cetaphil Deep Cleansing Bars - 4.5 oz x 3 pack,Cetaphil,4.5,396.0,0.0,11.99
+"Carmex Medicated Lip Balm Sticks, Lip Moisturizer for Chapped Lips - 0.15 oz x 3 pack",Carmex,4.5,76.0,0.0,5.29
+"U by Kotex Balance Thong Liners Unscented, Regular (50 ct) - 50 ea",U by Kotex,4.5,3001.0,0.0,6.99
+"La Roche-Posay Lipikar Lotion Daily Repair, Body and Face Moisturizer - 13.52 fl oz",La Roche-Posay,4.5,789.0,0.0,17.99
+"L. Ultra Thin Pads for Women, 100% Pure Cotton Top Layer Pads with Wings Unscented, Super - 42 ea",L.,4.5,782.0,0.0,14.49
